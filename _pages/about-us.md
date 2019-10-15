@@ -54,6 +54,8 @@ We’ll be holding weekly phone banks across Massachusetts to call voters in key
 
 Direct voter contact puts real pressure on state reps to push the bill forward, make constituents aware of what their representative is doing, and helps us build a community of people who will ensure that progress is made.
 
+Email us at info@actonmass.org
+
 ## Our team
 
 {% include team.html team=page.team %}
