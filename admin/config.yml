@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
-  branch: editor
-media_folder: 'assets/uploads'
+  branch: next
+media_folder: 'assets'
 collections:
   - name: 'blog'
     label: 'Blog post'
@@ -16,3 +16,29 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'legislators'
+    label: 'Legislator'
+    folder: '_legislators/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'First name', name: 'first_name', widget: 'string' }
+      - { label: 'Last name', name: 'last_name', widget: 'string' }
+      - { label: 'Phone number', name: 'phone', widget: 'string' }
+      - { label: 'Email', name: 'email', widget: 'string' }
+      - { label: 'Hometown', name: 'hometown', widget: 'string' }
+      - { label: 'malegislature.gov URL', name: 'malegislature_url', widget: 'string' }
+      - { label: 'Website', name: 'website', widget: 'string' }
+      - { label: 'Facebook page', name: 'facebook', widget: 'string' }
+      - { label: 'Twitter account', name: 'twitter', widget: 'string' }
+      - { label: 'Facebook page', name: 'facebook', widget: 'string' }
+
+# chamber: house
+# district: house-11th-middlesex
+# end_date: ''
+# party: D
+# picture: https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiuk73Wj9jgAhUoTt8KHZdeByIQjRx6BAgBEAU&url=https%3A%2F%2Fthearcofmass.org%2Finsiders-view-kay-khan%2F&psig=AOvVaw2RT0RcvGAJ4nAvMSnDZCJU&ust=1551226633206963
+# square_picture: /img/legislators/square-pictures/kay-khan.jpg
+# start_date: ''
