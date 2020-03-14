@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: next
+  branch: add-collections-to-admin
 media_folder: 'assets'
 collections:
   - name: 'blog'
