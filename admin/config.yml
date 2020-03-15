@@ -1,46 +1,375 @@
 backend:
   name: git-gateway
   branch: add-collections-to-admin
-
 local_backend: true
-
-media_folder: 'assets'
+media_folder: assets
 collections:
-  - name: 'blog'
-    label: 'Blog post'
-    sort: 'date:desc'
-    folder: '_posts/'
+  - name: posts
+    label: Posts
+    folder: _posts/
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: false
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'legislators'
-    label: 'Legislator'
-    folder: '_legislators/'
+      - label: Layout
+        name: layout
+        widget: hidden
+        default: post
+      - label: Title
+        name: title
+        widget: string
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - label: Body
+        name: body
+        widget: markdown
+  - name: issues
+    label: Issues
+    folder: _issues/
     create: true
-    slug: '{{slug}}'
+    slug: "{{title}}"
     editor:
       preview: false
     fields:
-      - { label: 'First name', name: 'first_name', widget: 'string' }
-      - { label: 'Last name', name: 'last_name', widget: 'string' }
-      - { label: 'Phone number', name: 'phone', widget: 'string', required: false}
-      - { label: 'Email', name: 'email', widget: 'string', required: false}
-      - { label: 'Hometown', name: 'hometown', widget: 'string', required: false}
-      - { label: 'malegislature.gov URL', name: 'malegislature_url', widget: 'string', required: false}
-      - { label: 'Website', name: 'website', widget: 'string', required: false}
-      - { label: 'Facebook page', name: 'facebook', widget: 'string', required: false}
-      - { label: 'Twitter account', name: 'twitter', widget: 'string', required: false}
-
-# chamber: house
-# district: house-11th-middlesex
-# end_date: ''
-# party: D
-# picture: https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiuk73Wj9jgAhUoTt8KHZdeByIQjRx6BAgBEAU&url=https%3A%2F%2Fthearcofmass.org%2Finsiders-view-kay-khan%2F&psig=AOvVaw2RT0RcvGAJ4nAvMSnDZCJU&ust=1551226633206963
-# square_picture: /img/legislators/square-pictures/kay-khan.jpg
-# start_date: ''
+      - label: Layout
+        name: layout
+        widget: hidden
+        default: issue
+      - label: Title
+        name: title
+        widget: string
+      - label: Subtitle
+        name: subtitle
+        widget: string
+      - label: Logo
+        name: logo
+        widget: string
+      - label: Image
+        name: img
+        widget: string
+      - label: Order
+        name: order
+        widget: number
+        valueType: int
+        required: false
+      - label: Body
+        name: body
+        widget: markdown
+  - name: legislators
+    label: Legislators
+    folder: _legislators/
+    create: true
+    slug: "{{first_name}}-{{last_name}}"
+    identifier_field: last_name
+    editor:
+      preview: false
+    fields:
+      - label: First name
+        name: first_name
+        widget: string
+      - label: Last name
+        name: last_name
+        widget: string
+      - label: District
+        name: district
+        widget: relation
+        collection: districts
+        searchFields:
+          - name
+          - chamber
+        valueField: name
+      - label: Party
+        name: party
+        widget: select
+        options:
+          - label: Democrat
+            value: D
+          - label: Republican
+            value: R
+      - label: Phone number
+        name: phone
+        widget: string
+        required: false
+      - label: Email
+        name: email
+        widget: string
+        required: false
+      - label: Hometown
+        name: hometown
+        widget: string
+        required: false
+      - label: Picture
+        name: picture
+        widget: string
+        required: false
+      - label: Square Picture
+        name: square_picture
+        widget: string
+        required: false
+      - label: End date
+        name: end_date
+        widget: string
+        required: false
+      - label: Start date
+        name: start_date
+        widget: string
+        required: false
+      - label: malegislature.gov URL
+        name: malegislature_url
+        widget: string
+        required: false
+      - label: Website
+        name: website
+        widget: string
+        required: false
+      - label: Facebook page
+        name: facebook
+        widget: string
+        required: false
+      - label: Twitter account
+        name: twitter
+        widget: string
+        required: false
+  - name: districts
+    label: Districts
+    folder: _districts/
+    create: true
+    slug: "{{chamber}}-{{name}}"
+    identifier_field: name
+    editor:
+      preview: false
+    fields:
+      - label: Name
+        name: name
+        widget: string
+      - label: Chamber
+        name: chamber
+        widget: select
+        options:
+          - label: House
+            value: house
+          - label: Senate
+            value: senate
+      - label: Van ID
+        name: van_id
+        widget: string
+      - label: Latitude
+        name: lat
+        widget: number
+        valueType: float
+      - label: Longitude
+        name: lng
+        widget: number
+        valueType: float
+  - name: committees
+    label: Committees
+    folder: _committees/
+    create: true
+    slug: "{{chamber}}-{{name}}"
+    identifier_field: title
+    editor:
+      preview: false
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Chamber
+        name: chamber
+        widget: select
+        options:
+          - label: House
+            value: house
+          - label: Senate
+            value: senate
+      - label: Chair
+        name: chair
+        widget: relation
+        collection: legislators
+        searchFields:
+          - last_name
+        valueField: last_name
+      - label: Vice-chair
+        name: vice_chair
+        widget: relation
+        collection: legislators
+        searchFields:
+          - last_name
+        valueField: last_name
+      - label: Members
+        name: members
+        widget: relation
+        collection: legislators
+        searchFields:
+          - last_name
+        valueField: last_name
+        multiple: true
+      - label: malegislature.gov URL
+        name: malegislature_url
+        widget: string
+        required: false
+  - name: bills
+    label: Bills
+    folder: _bills/
+    create: true
+    slug: "{{short_title}}"
+    identifier_field: short_title
+    editor:
+      preview: false
+    fields:
+      - label: Short title
+        name: short_title
+        widget: string
+      - label: Full title
+        name: full_title
+        widget: string
+      - label: Article
+        name: article
+        widget: string
+      - label: House bill number
+        name: house_no
+        widget: string
+      - label: House bill link
+        name: house_link
+        widget: string
+      - label: Senate bill number
+        name: senate_no
+        widget: string
+      - label: Senate bill link
+        name: house_link
+        widget: string
+      - label: Committee
+        name: committee
+        widget: relation
+        collection: committees
+        searchFields:
+          - title
+        valueField: title
+      - label: Issue
+        name: issue
+        widget: relation
+        collection: issues
+        searchFields:
+          - title
+        valueField: title
+      - label: Summary bullet-points
+        name: summary
+        widget: list
+        collapsed: false
+        field:
+          label: Bullet point
+          name: point
+          widget: string
+      - label: Organisations
+        name: orgs
+        widget: list
+        collapsed: false
+        field:
+          label: Org
+          name: org
+          widget: string
+      - label: House lead sponsors
+        name: house_lead_sponsors
+        widget: relation
+        collection: legislators
+        searchFields:
+          - last_name
+        valueField: last_name
+        multiple: true
+      - label: Senate lead sponsors
+        name: senate_lead_sponsors
+        widget: relation
+        collection: legislators
+        searchFields:
+          - last_name
+        valueField: last_name
+        multiple: true
+      - label: Co-sponsors
+        name: co_sponsors
+        widget: relation
+        collection: legislators
+        searchFields:
+          - last_name
+        valueField: last_name
+        multiple: true
+      - label: History
+        name: history
+        widget: list
+        fields:
+          - label: Detailed bill event
+            name: bill_event
+            widget: relation
+            collection: bill_events
+            valueField: description
+            searchField:
+              - description
+          - label: Date (fill only if no detailed bill event)
+            name: date
+            widget: string
+          - label: Description (fill only if no detailed bill event)
+            name: description
+  - name: bill_events
+    path: "{{bill}}/{{description}}"
+    label: Detailed bill events
+    folder: _bill_events/
+    create: true
+    slug: "{{description}}"
+    identifier_field: description
+    editor:
+      preview: false
+    fields:
+      - label: Date
+        name: date
+        widget: string
+      - label: Description
+        name: description
+        widget: string
+      - label: Bill
+        name: bill
+        widget: relation
+        collection: bills
+        searchFields:
+          - short_title
+        valueField: short_title
+      - label: Vote descriptions
+        name: vote_descriptions
+        widget: object
+        fields:
+          - label: Yes vote description
+            name: "yes"
+            widget: string
+            default: >-
+              Example: Voted to send the [Safe Communities
+              Act](/bills/safe-communities-act/) to study
+          - label: No vote description
+            name: "no"
+            widget: string
+          - label: Unknown vote description
+            name: unk
+            widget: string
+            default: >-
+              Example: Won't tell us how they voted on the [Safe Communities
+              Act](/bills/safe-communities-act/) in committee
+      - label: Votes
+        name: votes
+        widget: list
+        collapsed: false
+        fields:
+          - label: Legislator
+            name: legislator
+            widget: relation
+            collection: legislators
+            searchFields:
+              - last_name
+            valueField: last_name
+          - label: Vote
+            name: vote
+            widget: select
+            options:
+              - label: "Yes"
+                value: "yes"
+              - label: "No"
+                value: "no"
+              - label: Unknown
+                value: unk
