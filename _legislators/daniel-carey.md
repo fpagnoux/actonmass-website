@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/CareyforStateRep/
 first_name: Daniel
 hometown: Easthampton
+id: daniel-carey
 last_name: Carey
 malegislature_url: https://malegislature.gov/Legislators/Profile/DRC1
 party: D

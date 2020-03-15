@@ -1,4 +1,5 @@
 ---
+id: senate-middlesex-and-suffolk
 lat: 42.37719
 lng: -71.06676
 name: Middlesex and Suffolk

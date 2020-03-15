@@ -1,6 +1,7 @@
 ---
+id: house-4th-hampden
 lat: 42.126889
 lng: -72.748232
 name: 4th Hampden
-van_id: '048'
+van_id: "048"
 ---

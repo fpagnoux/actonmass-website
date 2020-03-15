@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Josh
 hometown: Duxbury
+id: josh-cutler
 last_name: Cutler
 malegislature_url: https://malegislature.gov/Legislators/Profile/JSC1
 party: D

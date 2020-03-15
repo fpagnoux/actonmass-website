@@ -14,6 +14,7 @@ house_members:
 - sheila-harrington
 - alyson-sullivan
 house_vice_chair: natalie-higgins
+id: house-personnel-and-administration
 malegislature_url: https://malegislature.gov/Committees/Detail/H45
 title: House Committee on Personnel and Administration
 ---

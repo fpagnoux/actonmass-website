@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/TeamTram.MA/
 first_name: Tram
 hometown: Andover
+id: tram-nguyen
 last_name: Nguyen
 malegislature_url: https://malegislature.gov/Legislators/Profile/TTN1
 party: D

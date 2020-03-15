@@ -12,6 +12,7 @@ house_members:
 - norman-orrall
 - mathew-muratore
 house_vice_chair: sean-garballey
+id: joint-state-administration-and-regulatory-oversight
 malegislature_url: https://malegislature.gov/Committees/Detail/J25
 senate_chair: marc-pacheco
 senate_members:

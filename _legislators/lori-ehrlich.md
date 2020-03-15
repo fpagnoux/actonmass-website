@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/reploriehrlich/
 first_name: Lori
 hometown: Marblehead
+id: lori-ehrlich
 last_name: Ehrlich
 malegislature_url: https://malegislature.gov/Legislators/Profile/LAE1
 party: D

@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Tami
 hometown: Acton
+id: tami-gouveia
 last_name: Gouveia
 malegislature_url: https://malegislature.gov/Legislators/Profile/TLG1
 party: D

@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/votewhelan
 first_name: Timothy
 hometown: Brewster
+id: timothy-whelan
 last_name: Whelan
 malegislature_url: https://malegislature.gov/Legislators/Profile/TRW1
 party: R

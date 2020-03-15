@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/RepTonyCabral/
 first_name: Antonio
 hometown: New Bedford
+id: antonio-cabral
 last_name: Cabral
 malegislature_url: https://malegislature.gov/Legislators/Profile/AFC1
 party: D

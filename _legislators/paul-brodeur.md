@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Paul
 hometown: Melrose
+id: paul-brodeur
 last_name: Brodeur
 malegislature_url: ''
 party: D

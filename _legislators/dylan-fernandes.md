@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/RepDylanFernandes/
 first_name: Dylan
 hometown: Falmouth
+id: dylan-fernandes
 last_name: Fernandes
 malegislature_url: https://malegislature.gov/Legislators/Profile/DAF1
 party: D

@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Carmine
 hometown: Sudbury
+id: carmine-gentile
 last_name: Gentile
 malegislature_url: https://malegislature.gov/Legislators/Profile/CLG1
 party: D

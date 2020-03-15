@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Jonathan
 hometown: Watertown
+id: jonathan-hecht
 last_name: Hecht
 malegislature_url: https://malegislature.gov/Legislators/Profile/J_H1
 party: D

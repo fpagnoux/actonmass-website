@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Gerard
 hometown: Brockton
+id: gerard-cassidy
 last_name: Cassidy
 malegislature_url: https://malegislature.gov/Legislators/Profile/G_C2
 party: D

@@ -12,6 +12,7 @@ house_members:
 - hannah-kane
 - paul-frost
 house_vice_chair: rady-mom
+id: joint-cannabis-policy
 malegislature_url: https://malegislature.gov/Committees/Detail/J50
 senate_chair: sonia-chang-diaz
 senate_members:

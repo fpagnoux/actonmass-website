@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Bradley
 hometown: North Reading
+id: bradley-jones
 last_name: Jones
 malegislature_url: https://malegislature.gov/Legislators/Profile/BHJ1
 party: R

@@ -12,6 +12,7 @@ house_members:
 - sheila-harrington
 - alyson-sullivan
 house_vice_chair: michael-day
+id: joint-judiciary
 malegislature_url: https://malegislature.gov/Committees/Detail/J19
 senate_chair: james-eldridge
 senate_members:

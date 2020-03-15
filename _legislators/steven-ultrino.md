@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Steven
 hometown: Malden
+id: steven-ultrino
 last_name: Ultrino
 malegislature_url: https://malegislature.gov/Legislators/Profile/S_G2
 party: D

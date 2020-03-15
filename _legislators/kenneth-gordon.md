@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Kenneth
 hometown: Bedford
+id: kenneth-gordon
 last_name: Gordon
 malegislature_url: https://malegislature.gov/Legislators/Profile/KIG1
 party: D

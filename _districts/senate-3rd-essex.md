@@ -1,6 +1,7 @@
 ---
+id: senate-3rd-essex
 lat: 42.48768
 lng: -70.98303
 name: Third Essex
-van_id: '008'
+van_id: "008"
 ---

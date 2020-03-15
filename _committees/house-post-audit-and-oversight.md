@@ -12,6 +12,7 @@ house_members:
 - peter-durant
 - shaunna-oconnell
 house_vice_chair: daniel-ryan
+id: house-post-audit-and-oversight
 malegislature_url: https://malegislature.gov/Committees/Detail/H46
 title: House Committee on Post Audit and Oversight
 ---

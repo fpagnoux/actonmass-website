@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Christine
 hometown: Somerville
+id: christine-barber
 last_name: Barber
 malegislature_url: https://malegislature.gov/Legislators/Profile/CPB2
 party: D

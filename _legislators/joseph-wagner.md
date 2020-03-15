@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/repwagner/
 first_name: Joseph
 hometown: Chicopee
+id: joseph-wagner
 last_name: Wagner
 malegislature_url: https://malegislature.gov/Legislators/Profile/JFW1
 party: D

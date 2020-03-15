@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: David
 hometown: Cambridge
+id: david-rogers
 last_name: Rogers
 malegislature_url: https://malegislature.gov/Legislators/Profile/DMR1
 party: D

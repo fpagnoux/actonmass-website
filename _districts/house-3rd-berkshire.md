@@ -1,6 +1,7 @@
 ---
+id: house-3rd-berkshire
 lat: 42.4517222
 lng: -73.2536031
 name: 3rd Berkshire
-van_id: '009'
+van_id: "009"
 ---

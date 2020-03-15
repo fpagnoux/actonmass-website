@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Edward
 hometown: Boston
+id: edward-coppinger
 last_name: Coppinger
 malegislature_url: https://malegislature.gov/Legislators/Profile/E_C1
 party: D

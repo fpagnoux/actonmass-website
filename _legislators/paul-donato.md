@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Paul
 hometown: Medford
+id: paul-donato
 last_name: Donato
 malegislature_url: https://malegislature.gov/Legislators/Profile/PJD1
 party: D

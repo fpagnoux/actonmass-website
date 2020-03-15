@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/JimHawkins4Rep/
 first_name: James
 hometown: Attleboro
+id: james-hawkins
 last_name: Hawkins
 malegislature_url: https://malegislature.gov/Legislators/Profile/JKH1
 party: D

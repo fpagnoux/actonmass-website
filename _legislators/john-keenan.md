@@ -4,6 +4,7 @@ district: senate-norfolk-and-plymouth
 email: John.Keenan@masenate.gov
 first_name: John
 hometown: Quincy
+id: john-keenan
 last_name: Keenan
 malegislature_url: https://malegislature.gov/Legislators/Profile/JFK0
 party: D

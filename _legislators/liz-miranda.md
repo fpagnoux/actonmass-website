@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Liz
 hometown: Boston
+id: liz-miranda
 last_name: Miranda
 malegislature_url: https://malegislature.gov/Legislators/Profile/L_M2
 party: D

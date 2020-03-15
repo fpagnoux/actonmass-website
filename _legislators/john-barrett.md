@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/JohnBarrettStateRep/
 first_name: John
 hometown: North Adams
+id: john-barrett
 last_name: Barrett
 malegislature_url: https://malegislature.gov/Legislators/Profile/J_B1
 party: D

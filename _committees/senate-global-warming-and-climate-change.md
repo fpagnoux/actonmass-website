@@ -1,5 +1,6 @@
 ---
 chamber: senate
+id: senate-global-warming-and-climate-change
 malegislature_url: https://malegislature.gov/Committees/Detail/S51
 senate_chair: marc-pacheco
 senate_members:

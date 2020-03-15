@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/JoseFTosado
 first_name: "Jos\xE9"
 hometown: Springfield
+id: jose-tosado
 last_name: Tosado
 malegislature_url: https://malegislature.gov/Legislators/Profile/JFT1
 party: D

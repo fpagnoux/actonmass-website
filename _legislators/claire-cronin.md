@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Claire
 hometown: Easton
+id: claire-cronin
 last_name: Cronin
 malegislature_url: https://malegislature.gov/Legislators/Profile/CDC1
 party: D

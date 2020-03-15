@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/david.t.vieira.9
 first_name: David
 hometown: Falmouth
+id: david-vieira
 last_name: Vieira
 malegislature_url: https://malegislature.gov/Legislators/Profile/DTV1
 party: R

@@ -12,6 +12,7 @@ house_members:
 - mathew-muratore
 - michael-soter
 house_vice_chair: thomas-stanley
+id: joint-municipalities-and-regional-government
 malegislature_url: https://malegislature.gov/Committees/Detail/J10
 senate_chair: rebecca-rausch
 senate_members:

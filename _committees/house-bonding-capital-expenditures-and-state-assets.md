@@ -12,6 +12,7 @@ house_members:
 - david-vieira
 - norman-orrall
 house_vice_chair: roselee-vincent
+id: house-bonding-capital-expenditures-and-state-assets
 malegislature_url: https://malegislature.gov/Committees/Detail/H32
 title: House Committee on Bonding, Capital Expenditures and State Assets
 ---

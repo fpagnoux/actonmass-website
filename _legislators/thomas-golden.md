@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Thomas
 hometown: Lowell
+id: thomas-golden
 last_name: Golden
 malegislature_url: https://malegislature.gov/Legislators/Profile/TAG1
 party: D

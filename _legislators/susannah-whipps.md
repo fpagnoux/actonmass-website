@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/repwhipps/
 first_name: Susannah
 hometown: Athol
+id: susannah-whipps
 last_name: Whipps
 malegislature_url: https://malegislature.gov/Legislators/Profile/SLG1
 party: I

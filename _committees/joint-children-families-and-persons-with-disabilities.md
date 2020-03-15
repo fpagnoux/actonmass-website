@@ -12,6 +12,7 @@ house_members:
 - michael-soter
 - kimberly-ferguson
 house_vice_chair: josh-cutler
+id: joint-children-families-and-persons-with-disabilities
 malegislature_url: https://malegislature.gov/Committees/Detail/J13
 senate_chair: sonia-chang-diaz
 senate_members:

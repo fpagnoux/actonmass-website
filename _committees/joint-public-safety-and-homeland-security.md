@@ -14,6 +14,7 @@ house_members:
 - david-muradian
 - peter-durant
 house_vice_chair: alan-silvia
+id: joint-public-safety-and-homeland-security
 malegislature_url: https://malegislature.gov/Committees/Detail/J22
 senate_chair: michael-moore
 senate_members:

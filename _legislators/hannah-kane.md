@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Hannah
 hometown: Shrewsbury
+id: hannah-kane
 last_name: Kane
 malegislature_url: https://malegislature.gov/Legislators/Profile/HEK1
 party: R

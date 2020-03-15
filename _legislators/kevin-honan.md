@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Kevin
 hometown: Boston
+id: kevin-honan
 last_name: Honan
 malegislature_url: https://malegislature.gov/Legislators/Profile/KGH1
 party: D

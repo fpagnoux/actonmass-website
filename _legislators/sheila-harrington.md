@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/repharrington
 first_name: Sheila
 hometown: Groton
+id: sheila-harrington
 last_name: Harrington
 malegislature_url: https://malegislature.gov/Legislators/Profile/SCH1
 party: R

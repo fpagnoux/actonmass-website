@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: David
 hometown: Grafton
+id: david-muradian
 last_name: Muradian
 malegislature_url: https://malegislature.gov/Legislators/Profile/DKM1
 party: R

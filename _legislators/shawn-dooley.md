@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Shawn
 hometown: Norfolk
+id: shawn-dooley
 last_name: Dooley
 malegislature_url: https://malegislature.gov/Legislators/Profile/S_D1
 party: R

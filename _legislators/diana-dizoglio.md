@@ -4,6 +4,7 @@ district: senate-1st-essex
 email: Diana.DiZoglio@masenate.gov
 first_name: Diana
 hometown: Methuen
+id: diana-dizoglio
 last_name: DiZoglio
 malegislature_url: https://malegislature.gov/Legislators/Profile/D_D0
 party: D

@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Thomas
 hometown: Waltham
+id: thomas-stanley
 last_name: Stanley
 malegislature_url: https://malegislature.gov/Legislators/Profile/TMS1
 party: D

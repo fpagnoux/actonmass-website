@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: James
 hometown: Weymouth
+id: james-murphy
 last_name: Murphy
 malegislature_url: https://malegislature.gov/Legislators/Profile/JMM1
 party: D

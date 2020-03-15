@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Chynah
 hometown: Boston
+id: chynah-tyler
 last_name: Tyler
 malegislature_url: https://malegislature.gov/Legislators/Profile/C_T1
 party: D

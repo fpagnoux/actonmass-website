@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Jay
 hometown: Boston
+id: jay-livingstone
 last_name: Livingstone
 malegislature_url: https://malegislature.gov/Legislators/Profile/J_L1
 party: D

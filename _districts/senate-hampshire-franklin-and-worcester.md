@@ -1,4 +1,5 @@
 ---
+id: senate-hampshire-franklin-and-worcester
 lat: 42.52437
 lng: -72.45677
 name: Hampshire, Franklin and Worcester

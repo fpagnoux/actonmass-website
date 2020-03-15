@@ -1,4 +1,5 @@
 ---
+id: house-6th-norfolk
 lat: 42.1555472
 lng: -71.1010763
 name: 6th Norfolk

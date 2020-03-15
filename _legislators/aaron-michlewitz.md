@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Aaron
 hometown: Boston
+id: aaron-michlewitz
 last_name: Michlewitz
 malegislature_url: https://malegislature.gov/Legislators/Profile/AMM1
 party: D

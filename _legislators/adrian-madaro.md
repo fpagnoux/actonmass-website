@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Adrian
 hometown: Boston
+id: adrian-madaro
 last_name: Madaro
 malegislature_url: https://malegislature.gov/Legislators/Profile/ACM1
 party: D

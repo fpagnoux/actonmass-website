@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Kathleen
 hometown: Kingston
+id: kathleen-lanatra
 last_name: LaNatra
 malegislature_url: https://malegislature.gov/Legislators/Profile/KPL1
 party: D

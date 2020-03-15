@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/staterepresentativepathaddad/
 first_name: Patricia
 hometown: Somerset
+id: patricia-haddad
 last_name: Haddad
 malegislature_url: https://malegislature.gov/Legislators/Profile/PAH1
 party: D

@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Bruce
 hometown: Quincy
+id: bruce-ayers
 last_name: Ayers
 malegislature_url: https://malegislature.gov/Legislators/Profile/BJA1
 party: D

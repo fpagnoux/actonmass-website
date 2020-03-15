@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: William
 hometown: Canton
+id: william-galvin
 last_name: Galvin
 malegislature_url: https://malegislature.gov/Legislators/Profile/WCG1
 party: D

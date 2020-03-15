@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Daniel
 hometown: Boston
+id: daniel-cullinane
 last_name: Cullinane
 malegislature_url: https://malegislature.gov/Legislators/Profile/D_C1
 party: D

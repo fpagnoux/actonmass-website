@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Ruth
 hometown: Newton
+id: ruth-balser
 last_name: Balser
 malegislature_url: https://malegislature.gov/Legislators/Profile/RBB1
 party: D

@@ -1,4 +1,5 @@
 ---
+id: senate-2nd-essex
 lat: 42.55757
 lng: -70.94717
 name: Second Essex

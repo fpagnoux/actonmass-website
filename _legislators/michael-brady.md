@@ -4,6 +4,7 @@ district: senate-2nd-plymouth-and-bristol
 email: Michael.Brady@masenate.gov
 first_name: Michael
 hometown: Brockton
+id: michael-brady
 last_name: Brady
 malegislature_url: https://malegislature.gov/Legislators/Profile/MDB0
 party: D

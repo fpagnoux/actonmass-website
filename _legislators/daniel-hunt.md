@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Daniel
 hometown: Boston
+id: daniel-hunt
 last_name: Hunt
 malegislature_url: https://malegislature.gov/Legislators/Profile/djh1
 party: D

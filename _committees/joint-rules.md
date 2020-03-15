@@ -16,6 +16,7 @@ house_members:
 - david-vieira
 - donald-wong
 house_vice_chair: daniel-hunt
+id: joint-rules
 malegislature_url: https://malegislature.gov/Committees/Detail/J40
 senate_chair: joan-lovely
 senate_members:

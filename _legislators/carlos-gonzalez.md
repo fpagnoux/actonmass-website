@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/Carlos-Gonzalez-State-Representative-1651765781719357/
 first_name: Carlos
 hometown: Springfield
+id: carlos-gonzalez
 last_name: "Gonz\xE1lez"
 malegislature_url: https://malegislature.gov/Legislators/Profile/C_G1
 party: D

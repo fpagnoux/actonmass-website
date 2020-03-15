@@ -12,6 +12,7 @@ house_members:
 - susan-gifford
 - marc-lombardo
 house_vice_chair: thomas-walsh
+id: house-ethics
 malegislature_url: https://malegislature.gov/Committees/Detail/H38
 title: House Committee on Ethics
 ---

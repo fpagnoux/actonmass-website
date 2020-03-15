@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Maria
 hometown: Framingham
+id: maria-robinson
 last_name: Robinson
 malegislature_url: https://malegislature.gov/Legislators/Profile/MDR1
 party: D

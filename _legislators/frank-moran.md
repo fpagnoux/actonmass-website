@@ -6,6 +6,7 @@ end_date: ''
 facebook: N/A
 first_name: Frank
 hometown: Lawrence
+id: frank-moran
 last_name: Moran
 malegislature_url: https://malegislature.gov/Legislators/Profile/FAM1
 party: D

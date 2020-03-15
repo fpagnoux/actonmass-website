@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: RoseLee
 hometown: Revere
+id: roselee-vincent
 last_name: Vincent
 malegislature_url: https://malegislature.gov/Legislators/Profile/r_v1
 party: D

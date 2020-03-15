@@ -12,6 +12,7 @@ house_members:
 - mathew-muratore
 - david-vieira
 house_vice_chair: bruce-ayers
+id: joint-tourism-arts-and-cultural-development
 malegislature_url: https://malegislature.gov/Committees/Detail/J30
 senate_chair: edward-kennedy
 senate_members:

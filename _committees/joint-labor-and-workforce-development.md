@@ -11,6 +11,7 @@ house_members:
 - joseph-mckenna
 - william-crocker
 house_vice_chair: elizabeth-malia
+id: joint-labor-and-workforce-development
 malegislature_url: https://malegislature.gov/Committees/Detail/J43
 senate_chair: patricia-jehlen
 senate_members:

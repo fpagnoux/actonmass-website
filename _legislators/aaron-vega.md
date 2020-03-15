@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/aaronvegaStateRep
 first_name: Aaron
 hometown: Holyoke
+id: aaron-vega
 last_name: Vega
 malegislature_url: https://malegislature.gov/Legislators/Profile/A_V1
 party: D

@@ -1,5 +1,6 @@
 ---
 chamber: senate
+id: senate-ethics
 malegislature_url: https://malegislature.gov/Committees/Detail/S56
 senate_chair: eric-lesser
 senate_members:

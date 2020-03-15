@@ -12,6 +12,7 @@ house_members:
 - kimberly-ferguson
 - james-kelcourse
 house_vice_chair: paul-tucker
+id: joint-education
 malegislature_url: https://malegislature.gov/Committees/Detail/J14
 senate_chair: jason-lewis
 senate_members:

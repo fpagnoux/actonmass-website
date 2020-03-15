@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/State-Representative-Christopher-Markey-107315875962005/
 first_name: Christopher
 hometown: Dartmouth
+id: christopher-markey
 last_name: Markey
 malegislature_url: https://malegislature.gov/Legislators/Profile/CMM1
 party: D

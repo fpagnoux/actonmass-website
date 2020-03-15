@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Mary
 hometown: Worcester
+id: mary-keefe
 last_name: Keefe
 malegislature_url: https://malegislature.gov/Legislators/Profile/MSK1
 party: D

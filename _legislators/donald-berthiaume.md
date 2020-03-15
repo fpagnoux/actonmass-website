@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Donald
 hometown: Spencer
+id: donald-berthiaume
 last_name: Berthiaume
 malegislature_url: https://malegislature.gov/Legislators/Profile/DRB1
 party: R

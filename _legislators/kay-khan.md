@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Kay
 hometown: Newton
+id: kay-khan
 last_name: Khan
 malegislature_url: https://malegislature.gov/Legislators/Profile/K_K1
 party: D

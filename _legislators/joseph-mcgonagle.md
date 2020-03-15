@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Joseph
 hometown: Everett
+id: joseph-mcgonagle
 last_name: McGonagle
 malegislature_url: https://malegislature.gov/Legislators/Profile/jwm1
 party: D

@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Jeffrey
 hometown: Franklin
+id: jeffrey-roy
 last_name: Roy
 malegislature_url: https://malegislature.gov/Legislators/Profile/JNR1
 party: D

@@ -1,4 +1,5 @@
 ---
+id: senate-1st-worcester
 lat: 42.34087
 lng: -71.80466
 name: First Worcester

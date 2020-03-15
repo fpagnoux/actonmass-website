@@ -4,6 +4,7 @@ district: senate-2nd-hampden-and-hampshire
 email: Donald.Humason@masenate.gov
 first_name: Donald
 hometown: Westfield
+id: donald-humason
 last_name: Humason
 malegislature_url: https://malegislature.gov/Legislators/Profile/DFH0
 party: R

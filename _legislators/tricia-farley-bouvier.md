@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/triciaforstaterep/
 first_name: Tricia
 hometown: Pittsfield
+id: tricia-farley-bouvier
 last_name: Farley-Bouvier
 malegislature_url: https://malegislature.gov/Legislators/Profile/TFB1
 party: D

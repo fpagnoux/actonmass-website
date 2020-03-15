@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Patrick
 hometown: Scituate
+id: patrick-kearney
 last_name: Kearney
 malegislature_url: https://malegislature.gov/Legislators/Profile/PJK1
 party: D

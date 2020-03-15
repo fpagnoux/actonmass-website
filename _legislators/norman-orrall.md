@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/NormanOrrall/
 first_name: Norman
 hometown: Lakeville
+id: norman-orrall
 last_name: Orrall
 malegislature_url: https://malegislature.gov/Legislators/Profile/NJO1
 party: R

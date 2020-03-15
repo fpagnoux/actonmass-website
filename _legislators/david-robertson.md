@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: David
 hometown: Tewksbury
+id: david-robertson
 last_name: Robertson
 malegislature_url: https://malegislature.gov/Legislators/Profile/D_R1
 party: D

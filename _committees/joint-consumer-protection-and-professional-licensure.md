@@ -12,6 +12,7 @@ house_members:
 - steven-howitt
 - joseph-mckenna
 house_vice_chair: jay-livingstone
+id: joint-consumer-protection-and-professional-licensure
 malegislature_url: https://malegislature.gov/Committees/Detail/J17
 senate_chair: paul-feeney
 senate_members:

@@ -16,6 +16,7 @@ house_members:
 - david-vieira
 - donald-wong
 house_vice_chair: daniel-hunt
+id: house-rules
 malegislature_url: https://malegislature.gov/Committees/Detail/H33
 title: House Committee on Rules
 ---

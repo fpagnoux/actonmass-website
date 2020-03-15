@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Harold
 hometown: Clinton
+id: harold-naughton
 last_name: Naughton
 malegislature_url: https://malegislature.gov/Legislators/Profile/HPN1
 party: D

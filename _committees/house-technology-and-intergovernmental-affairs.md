@@ -12,6 +12,7 @@ house_members:
 - marc-lombardo
 - peter-durant
 house_vice_chair: aaron-vega
+id: house-technology-and-intergovernmental-affairs
 malegislature_url: https://malegislature.gov/Committees/Detail/TI0
 title: House Committee on Technology and Intergovernmental Affairs
 ---

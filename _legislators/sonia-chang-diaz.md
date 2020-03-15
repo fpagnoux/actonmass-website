@@ -4,6 +4,7 @@ district: senate-2nd-suffolk
 email: Sonia.Chang-Diaz@masenate.gov
 first_name: Sonia
 hometown: Boston
+id: sonia-chang-diaz
 last_name: Chang-Diaz
 malegislature_url: https://malegislature.gov/Legislators/Profile/SCD0
 party: D

@@ -4,6 +4,7 @@ district: senate-plymouth-and-barnstable
 email: Vinny.deMacedo@masenate.gov
 first_name: Viriato
 hometown: Plymouth
+id: viriato-demacedo
 last_name: deMacedo
 malegislature_url: https://malegislature.gov/Legislators/Profile/VMD0
 party: R

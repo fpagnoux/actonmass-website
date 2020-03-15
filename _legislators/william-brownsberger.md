@@ -4,6 +4,7 @@ district: senate-2nd-suffolk-and-middlesex
 email: William.Brownsberger@masenate.gov
 first_name: William
 hometown: Belmont
+id: william-brownsberger
 last_name: Brownsberger
 malegislature_url: https://malegislature.gov/Legislators/Profile/WNB0
 party: D

@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Tommy
 hometown: Brookline
+id: tommy-vitolo
 last_name: Vitolo
 malegislature_url: https://malegislature.gov/Legislators/Profile/T_V1
 party: D

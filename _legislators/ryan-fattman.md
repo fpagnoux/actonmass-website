@@ -4,6 +4,7 @@ district: senate-worcester-and-norfolk
 email: Ryan.Fattman@masenate.gov
 first_name: Ryan
 hometown: Sutton
+id: ryan-fattman
 last_name: Fattman
 malegislature_url: https://malegislature.gov/Legislators/Profile/RCF0
 party: R

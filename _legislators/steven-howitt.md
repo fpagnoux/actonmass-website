@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/StevenHowittforStateRepresentative/
 first_name: Steven
 hometown: Seekonk
+id: steven-howitt
 last_name: Howitt
 malegislature_url: https://malegislature.gov/Legislators/Profile/SSH1
 party: R

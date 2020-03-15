@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Rady
 hometown: Lowell
+id: rady-mom
 last_name: Mom
 malegislature_url: https://malegislature.gov/Legislators/Profile/R_M2
 party: D

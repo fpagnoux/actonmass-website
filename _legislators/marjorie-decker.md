@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Marjorie
 hometown: Cambridge
+id: marjorie-decker
 last_name: Decker
 malegislature_url: https://malegislature.gov/Legislators/Profile/MCD1
 party: D

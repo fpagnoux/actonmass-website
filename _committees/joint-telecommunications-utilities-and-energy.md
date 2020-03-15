@@ -12,6 +12,7 @@ house_members:
 - lenny-mirra
 - shawn-dooley
 house_vice_chair: carolyn-dykema
+id: joint-telecommunications-utilities-and-energy
 malegislature_url: https://malegislature.gov/Committees/Detail/J37
 senate_chair: michael-barrett
 senate_members:

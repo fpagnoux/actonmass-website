@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Tackey
 hometown: Quincy
+id: tackey-chan
 last_name: Chan
 malegislature_url: https://malegislature.gov/Legislators/Profile/T_C1
 party: D

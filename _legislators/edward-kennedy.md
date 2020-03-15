@@ -4,6 +4,7 @@ district: senate-1st-middlesex
 email: edward.kennedy@masenate.gov
 first_name: Edward
 hometown: Lowell
+id: edward-kennedy
 last_name: Kennedy
 malegislature_url: https://malegislature.gov/Legislators/Profile/EDJ0
 party: D

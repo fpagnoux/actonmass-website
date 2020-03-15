@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Ronald
 hometown: Quincy
+id: ronald-mariano
 last_name: Mariano
 malegislature_url: https://malegislature.gov/Legislators/Profile/R_M1
 party: D

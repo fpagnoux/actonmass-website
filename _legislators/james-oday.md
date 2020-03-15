@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: James
 hometown: West Boylston
+id: james-oday
 last_name: O'Day
 malegislature_url: https://malegislature.gov/Legislators/Profile/JJO1
 party: D

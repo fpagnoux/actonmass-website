@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Stephan
 hometown: Fitchburg
+id: stephan-hay
 last_name: Hay
 malegislature_url: https://malegislature.gov/Legislators/Profile/S_H1
 party: D

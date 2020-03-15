@@ -4,6 +4,7 @@ district: senate-2nd-worcester
 email: Michael.Moore@masenate.gov
 first_name: Michael
 hometown: Millbury
+id: michael-moore
 last_name: Moore
 malegislature_url: https://malegislature.gov/Legislators/Profile/MOM0
 party: D

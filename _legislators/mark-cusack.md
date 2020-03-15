@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Mark
 hometown: Braintree
+id: mark-cusack
 last_name: Cusack
 malegislature_url: https://malegislature.gov/Legislators/Profile/MJC1
 party: D

@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Richard
 hometown: Woburn
+id: richard-haggerty
 last_name: Haggerty
 malegislature_url: https://malegislature.gov/Legislators/Profile/RMH1
 party: D

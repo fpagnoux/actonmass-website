@@ -1,4 +1,5 @@
 ---
+id: senate-1st-hampden-and-hampshire
 lat: 42.19539
 lng: -72.46514
 name: First Hampden and Hampshire

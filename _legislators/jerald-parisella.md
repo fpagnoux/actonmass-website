@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/jerry.staterep
 first_name: Jerald
 hometown: Beverlyl
+id: jerald-parisella
 last_name: Parisella
 malegislature_url: https://malegislature.gov/Legislators/Profile/JAP1
 party: D

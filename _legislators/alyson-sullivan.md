@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Alyson
 hometown: Abington
+id: alyson-sullivan
 last_name: Sullivan
 malegislature_url: https://malegislature.gov/Legislators/Profile/AMS2
 party: R

@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Joseph
 hometown: Webster
+id: joseph-mckenna
 last_name: McKenna
 malegislature_url: https://malegislature.gov/Legislators/Profile/JDM1
 party: R

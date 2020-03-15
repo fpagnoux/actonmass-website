@@ -14,6 +14,7 @@ house_members:
 - norman-orrall
 - david-decoste
 house_vice_chair: adrian-madaro
+id: joint-transportation
 malegislature_url: https://malegislature.gov/Committees/Detail/J27
 senate_chair: joseph-boncore
 senate_members:

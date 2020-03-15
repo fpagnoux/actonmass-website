@@ -1,4 +1,5 @@
 ---
+id: house-10th-hampden
 lat: 42.0973451
 lng: -72.575884
 name: 10th Hampden

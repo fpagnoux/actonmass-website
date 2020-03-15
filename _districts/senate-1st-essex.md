@@ -1,4 +1,5 @@
 ---
+id: senate-1st-essex
 lat: 42.79181
 lng: -71.03232
 name: First Essex

@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/Replindadeancampbell
 first_name: Linda
 hometown: Methuen
+id: linda-campbell
 last_name: Campbell
 malegislature_url: https://malegislature.gov/Legislators/Profile/LDC1
 party: D

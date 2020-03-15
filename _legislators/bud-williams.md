@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/RepBudLWilliams
 first_name: Bud
 hometown: Springfield
+id: bud-williams
 last_name: Williams
 malegislature_url: https://malegislature.gov/Legislators/Profile/BLW1
 party: D

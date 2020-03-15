@@ -4,6 +4,7 @@ district: senate-3rd-middlesex
 email: Mike.Barrett@masenate.gov
 first_name: Michael
 hometown: Lexington
+id: michael-barrett
 last_name: Barrett
 malegislature_url: https://malegislature.gov/Legislators/Profile/MJB0
 party: D

@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Jennifer
 hometown: Lunenburg
+id: jennifer-benson
 last_name: Benson
 malegislature_url: https://malegislature.gov/Legislators/Profile/JEB1
 party: D

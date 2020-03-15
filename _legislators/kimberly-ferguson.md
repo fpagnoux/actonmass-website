@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Kimberly
 hometown: Holden
+id: kimberly-ferguson
 last_name: Ferguson
 malegislature_url: https://malegislature.gov/Legislators/Profile/KNF1
 party: R

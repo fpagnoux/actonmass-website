@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Paul
 hometown: Dedham
+id: paul-mcmurtry
 last_name: McMurtry
 malegislature_url: https://malegislature.gov/Legislators/Profile/P_M1
 party: D

@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/votehendricks/
 first_name: Christopher
 hometown: New Bedford
+id: christopher-hendricks
 last_name: Hendricks
 malegislature_url: https://malegislature.gov/Legislators/Profile/C_H1
 party: D

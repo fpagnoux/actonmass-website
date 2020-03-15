@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/sarah.peake.37
 first_name: Sarah
 hometown: Provincetown
+id: sarah-peake
 last_name: Peake
 malegislature_url: https://malegislature.gov/Legislators/Profile/SKP1
 party: D

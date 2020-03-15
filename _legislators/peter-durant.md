@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Peter
 hometown: Spencer
+id: peter-durant
 last_name: Durant
 malegislature_url: https://malegislature.gov/Legislators/Profile/PJD2
 party: R

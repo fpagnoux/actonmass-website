@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Jonathan
 hometown: Gardner
+id: jonathan-zlotnik
 last_name: Zlotnik
 malegislature_url: https://malegislature.gov/Legislators/Profile/JDZ1
 party: D

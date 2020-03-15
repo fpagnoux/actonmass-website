@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/RepNickBoldyga/
 first_name: Nicholas
 hometown: Southwick
+id: nicholas-boldyga
 last_name: Boldyga
 malegislature_url: https://malegislature.gov/Legislators/Profile/NAG1
 party: R

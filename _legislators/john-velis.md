@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/repjohnvelis
 first_name: John
 hometown: Westfield
+id: john-velis
 last_name: Velis
 malegislature_url: https://malegislature.gov/Legislators/Profile/jcv1
 party: D

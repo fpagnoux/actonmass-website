@@ -12,6 +12,7 @@ house_members:
 - f-jay-barrows
 - shawn-dooley
 house_vice_chair: christine-barber
+id: joint-financial-services
 malegislature_url: https://malegislature.gov/Committees/Detail/J11
 senate_chair: james-welch
 senate_members:

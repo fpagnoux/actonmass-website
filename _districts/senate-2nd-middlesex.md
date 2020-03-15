@@ -1,4 +1,5 @@
 ---
+id: senate-2nd-middlesex
 lat: 42.41109
 lng: -71.10976
 name: Second Middlesex

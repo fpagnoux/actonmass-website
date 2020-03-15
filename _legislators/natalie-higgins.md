@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Natalie
 hometown: Leominster
+id: natalie-higgins
 last_name: Higgins
 malegislature_url: https://malegislature.gov/Legislators/Profile/N_H1
 party: D

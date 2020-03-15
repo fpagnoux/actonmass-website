@@ -12,6 +12,7 @@ house_members:
 - lenny-mirra
 - joseph-mckenna
 house_vice_chair: carlos-gonzalez
+id: joint-community-development-and-small-businesses
 malegislature_url: https://malegislature.gov/Committees/Detail/J47
 senate_chair: diana-dizoglio
 senate_members:

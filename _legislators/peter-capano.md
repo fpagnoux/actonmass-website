@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/StateRepCapano/
 first_name: Peter
 hometown: Lynn
+id: peter-capano
 last_name: Capano
 malegislature_url: https://malegislature.gov/Legislators/Profile/PLC1
 party: D

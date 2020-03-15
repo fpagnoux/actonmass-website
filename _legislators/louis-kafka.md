@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Louis
 hometown: Stoughton
+id: louis-kafka
 last_name: Kafka
 malegislature_url: https://malegislature.gov/Legislators/Profile/LLK1
 party: D

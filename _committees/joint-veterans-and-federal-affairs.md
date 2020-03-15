@@ -12,6 +12,7 @@ house_members:
 - david-decoste
 - donald-berthiaume
 house_vice_chair: john-velis
+id: joint-veterans-and-federal-affairs
 malegislature_url: https://malegislature.gov/Committees/Detail/J31
 senate_chair: walter-timilty
 senate_members:

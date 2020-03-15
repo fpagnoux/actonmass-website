@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Susan
 hometown: Wareham
+id: susan-gifford
 last_name: Gifford
 malegislature_url: https://malegislature.gov/Legislators/Profile/SWG1
 party: R

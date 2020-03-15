@@ -12,6 +12,7 @@ house_members:
 - david-decoste
 - william-crocker
 house_vice_chair: joseph-mcgonagle
+id: joint-housing
 malegislature_url: https://malegislature.gov/Committees/Detail/J28
 senate_chair: brendan-crighton
 senate_members:

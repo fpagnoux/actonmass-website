@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Russell
 hometown: Boston
+id: russell-holmes
 last_name: Holmes
 malegislature_url: https://malegislature.gov/Legislators/Profile/REH1
 party: D

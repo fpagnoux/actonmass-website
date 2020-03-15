@@ -1,4 +1,5 @@
 ---
+id: senate-bristol-and-norfolk
 lat: 42.01399
 lng: -71.21015
 name: Bristol and Norfolk

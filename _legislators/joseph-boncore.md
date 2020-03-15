@@ -4,6 +4,7 @@ district: senate-1st-suffolk-and-middlesex
 email: Joseph.Boncore@masenate.gov
 first_name: Joseph
 hometown: Winthrop
+id: joseph-boncore
 last_name: Boncore
 malegislature_url: https://malegislature.gov/Legislators/Profile/JAB0
 party: D

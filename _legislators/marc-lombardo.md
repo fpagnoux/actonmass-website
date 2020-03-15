@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Marc
 hometown: Billerica
+id: marc-lombardo
 last_name: Lombardo
 malegislature_url: https://malegislature.gov/Legislators/Profile/MTL1
 party: R

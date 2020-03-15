@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Michael
 hometown: Stoneham
+id: michael-day
 last_name: Day
 malegislature_url: https://malegislature.gov/Legislators/Profile/MSD1
 party: D

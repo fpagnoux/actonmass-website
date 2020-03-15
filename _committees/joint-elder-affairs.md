@@ -12,6 +12,7 @@ house_members:
 - donald-berthiaume
 - david-muradian
 house_vice_chair: tricia-farley-bouvier
+id: joint-elder-affairs
 malegislature_url: https://malegislature.gov/Committees/Detail/J44
 senate_chair: patricia-jehlen
 senate_members:

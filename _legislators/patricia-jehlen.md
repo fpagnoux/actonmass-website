@@ -4,6 +4,7 @@ district: senate-2nd-middlesex
 email: Patricia.Jehlen@masenate.gov
 first_name: Patricia
 hometown: Somerville
+id: patricia-jehlen
 last_name: Jehlen
 malegislature_url: https://malegislature.gov/Legislators/Profile/PDJ0
 party: D

@@ -6,6 +6,7 @@ end_date: ''
 facebook: ''
 first_name: Danielle
 hometown: Marlborough
+id: danielle-gregoire
 last_name: Gregoire
 malegislature_url: https://malegislature.gov/Legislators/Profile/DWG1
 party: D

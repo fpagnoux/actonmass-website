@@ -14,6 +14,7 @@ house_members:
 - mathew-muratore
 - lenny-mirra
 house_vice_chair: daniel-cullinane
+id: joint-health-care-financing
 malegislature_url: https://malegislature.gov/Committees/Detail/J24
 senate_chair: cindy-friedman
 senate_members:

@@ -6,6 +6,7 @@ end_date: ''
 facebook: https://www.facebook.com/michael.finn.1401
 first_name: Michael
 hometown: West Springfield
+id: michael-finn
 last_name: Finn
 malegislature_url: https://malegislature.gov/Legislators/Profile/MJF1
 party: D
