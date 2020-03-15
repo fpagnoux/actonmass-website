@@ -1,4 +1,5 @@
 ---
+id: joint-export-development
 chamber: joint
 house_chair: lori-ehrlich
 house_members:
@@ -12,7 +13,6 @@ house_members:
 - donald-wong
 - steven-howitt
 house_vice_chair: brian-ashe
-id: joint-export-development
 malegislature_url: https://malegislature.gov/Committees/Detail/J51
 senate_chair: nick-collins
 senate_members:

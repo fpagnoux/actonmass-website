@@ -1,4 +1,5 @@
 ---
+id: james-arciero
 chamber: house
 district: house-2nd-middlesex
 email: James.Arciero@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: James
 hometown: Westford
-id: james-arciero
 last_name: Arciero
 malegislature_url: https://malegislature.gov/Legislators/Profile/J_A1
 party: D

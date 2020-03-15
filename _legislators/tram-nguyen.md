@@ -1,4 +1,5 @@
 ---
+id: tram-nguyen
 chamber: house
 district: house-18th-essex
 email: tram.nguyen@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/TeamTram.MA/
 first_name: Tram
 hometown: Andover
-id: tram-nguyen
 last_name: Nguyen
 malegislature_url: https://malegislature.gov/Legislators/Profile/TTN1
 party: D

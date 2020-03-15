@@ -1,4 +1,5 @@
 ---
+id: stephan-hay
 chamber: house
 district: house-3rd-worcester
 email: Stephan.Hay@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Stephan
 hometown: Fitchburg
-id: stephan-hay
 last_name: Hay
 malegislature_url: https://malegislature.gov/Legislators/Profile/S_H1
 party: D

@@ -1,4 +1,5 @@
 ---
+id: david-robertson
 chamber: house
 district: house-19th-middlesex
 email: david.robertson@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: David
 hometown: Tewksbury
-id: david-robertson
 last_name: Robertson
 malegislature_url: https://malegislature.gov/Legislators/Profile/D_R1
 party: D

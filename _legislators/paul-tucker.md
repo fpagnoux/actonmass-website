@@ -1,4 +1,5 @@
 ---
+id: paul-tucker
 chamber: house
 district: house-7th-essex
 email: Paul.Tucker@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/PaulTuckerSalem
 first_name: Paul
 hometown: Salem
-id: paul-tucker
 last_name: Tucker
 malegislature_url: https://malegislature.gov/Legislators/Profile/PFT1
 party: D

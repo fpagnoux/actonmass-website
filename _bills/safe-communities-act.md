@@ -1,4 +1,5 @@
 ---
+id: safe-communities-act
 short_title: Safe Communities Act
 full_title: An Act to Protect the Civil Rights and Safety of all MA Residents
 article: the

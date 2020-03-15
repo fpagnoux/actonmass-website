@@ -1,4 +1,5 @@
 ---
+id: tricia-farley-bouvier
 chamber: house
 district: house-3rd-berkshire
 email: Tricia.Farley-Bouvier@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/triciaforstaterep/
 first_name: Tricia
 hometown: Pittsfield
-id: tricia-farley-bouvier
 last_name: Farley-Bouvier
 malegislature_url: https://malegislature.gov/Legislators/Profile/TFB1
 party: D

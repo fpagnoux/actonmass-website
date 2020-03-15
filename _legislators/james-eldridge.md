@@ -1,10 +1,10 @@
 ---
+id: james-eldridge
 chamber: senate
 district: senate-middlesex-and-worcester
 email: James.Eldridge@masenate.gov
 first_name: James
 hometown: Acton
-id: james-eldridge
 last_name: Eldridge
 malegislature_url: https://malegislature.gov/Legislators/Profile/JBE0
 party: D

@@ -1,4 +1,5 @@
 ---
+id: shaunna-oconnell
 chamber: house
 district: house-3rd-bristol
 email: Shaunna.O'Connell@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/shaunna.oconnell.7?fref=nf
 first_name: Shaunna
 hometown: Taunton
-id: shaunna-oconnell
 last_name: O'Connell
 malegislature_url: https://malegislature.gov/Legislators/Profile/SLO1
 party: R

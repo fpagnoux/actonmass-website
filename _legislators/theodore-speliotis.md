@@ -1,4 +1,5 @@
 ---
+id: theodore-speliotis
 chamber: house
 district: house-13th-essex
 email: Theodore.Speliotis@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/reptedspeliotis/
 first_name: Theodore
 hometown: Danvers
-id: theodore-speliotis
 last_name: Speliotis
 malegislature_url: https://malegislature.gov/Legislators/Profile/TCS1
 party: D

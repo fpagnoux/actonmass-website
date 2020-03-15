@@ -1,4 +1,5 @@
 ---
+id: elizabeth-poirier
 chamber: house
 district: house-14th-bristol
 email: Elizabeth.Poirier@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/Representative-Elizabeth-Poirier-115052675238359/
 first_name: Elizabeth
 hometown: North Attleborough
-id: elizabeth-poirier
 last_name: Poirier
 malegislature_url: https://malegislature.gov/Legislators/Profile/EAP1
 party: R

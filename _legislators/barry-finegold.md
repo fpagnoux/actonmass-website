@@ -1,10 +1,10 @@
 ---
+id: barry-finegold
 chamber: senate
 district: senate-2nd-essex-and-middlesex
 email: Barry.Finegold@masenate.gov
 first_name: Barry
 hometown: Andover
-id: barry-finegold
 last_name: Finegold
 malegislature_url: https://malegislature.gov/Legislators/Profile/BRF0
 party: D

@@ -1,4 +1,5 @@
 ---
+id: david-biele
 chamber: house
 district: house-4th-suffolk
 email: David.Biele@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: David
 hometown: Boston
-id: david-biele
 last_name: Biele
 malegislature_url: https://malegislature.gov/Legislators/Profile/D_B1
 party: D

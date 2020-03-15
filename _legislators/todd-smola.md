@@ -1,4 +1,5 @@
 ---
+id: todd-smola
 chamber: house
 district: house-1st-hampden
 email: Todd.Smola@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/todd.smola.7
 first_name: Todd
 hometown: Warren
-id: todd-smola
 last_name: Smola
 malegislature_url: https://malegislature.gov/Legislators/Profile/TMS2
 party: R

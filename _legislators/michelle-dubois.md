@@ -1,4 +1,5 @@
 ---
+id: michelle-dubois
 chamber: house
 district: house-10th-plymouth
 email: michelle.dubois@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Michelle
 hometown: Brockton
-id: michelle-dubois
 last_name: DuBois
 malegislature_url: https://malegislature.gov/Legislators/Profile/MMD1
 party: D

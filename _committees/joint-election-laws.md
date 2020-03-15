@@ -1,4 +1,5 @@
 ---
+id: joint-election-laws
 chamber: joint
 house_chair: john-lawn
 house_members:
@@ -12,7 +13,6 @@ house_members:
 - nicholas-boldyga
 - marc-lombardo
 house_vice_chair: william-driscoll
-id: joint-election-laws
 malegislature_url: https://malegislature.gov/Committees/Detail/J15
 senate_chair: barry-finegold
 senate_members:

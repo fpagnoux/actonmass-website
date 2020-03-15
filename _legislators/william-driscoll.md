@@ -1,4 +1,5 @@
 ---
+id: william-driscoll
 chamber: house
 district: house-7th-norfolk
 email: William.Driscoll@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: William
 hometown: Milton
-id: william-driscoll
 last_name: Driscoll
 malegislature_url: https://malegislature.gov/Legislators/Profile/WJD1
 party: D

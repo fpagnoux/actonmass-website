@@ -3,5 +3,5 @@ id: house-1st-norfolk
 lat: 42.2298217
 lng: -71.0475179
 name: 1st Norfolk
-van_id: '097'
+van_id: "097"
 ---

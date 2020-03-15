@@ -1,4 +1,5 @@
 ---
+id: joint-higher-education
 chamber: joint
 house_chair: jeffrey-roy
 house_members:
@@ -12,7 +13,6 @@ house_members:
 - nicholas-boldyga
 - timothy-whelan
 house_vice_chair: james-arciero
-id: joint-higher-education
 malegislature_url: https://malegislature.gov/Committees/Detail/J29
 senate_chair: anne-gobi
 senate_members:

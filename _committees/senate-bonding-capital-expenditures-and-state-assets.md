@@ -1,6 +1,6 @@
 ---
-chamber: senate
 id: senate-bonding-capital-expenditures-and-state-assets
+chamber: senate
 malegislature_url: https://malegislature.gov/Committees/Detail/S32
 senate_chair: michael-moore
 senate_members:

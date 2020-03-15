@@ -1,10 +1,10 @@
 ---
+id: rebecca-rausch
 chamber: senate
 district: senate-norfolk-bristol-and-middlesex
 email: Becca.Rausch@masenate.gov
 first_name: Rebecca
 hometown: Needham
-id: rebecca-rausch
 last_name: Rausch
 malegislature_url: https://malegislature.gov/Legislators/Profile/RLR0
 party: D

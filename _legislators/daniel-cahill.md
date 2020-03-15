@@ -1,4 +1,5 @@
 ---
+id: daniel-cahill
 chamber: house
 district: house-10th-essex
 email: Daniel.Cahill@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/RepDanCahill/
 first_name: Daniel
 hometown: Lynn
-id: daniel-cahill
 last_name: Cahill
 malegislature_url: https://malegislature.gov/Legislators/Profile/DFC1
 party: D

@@ -1,4 +1,5 @@
 ---
+id: michael-moran
 chamber: house
 district: house-18th-suffolk
 email: Michael.Moran@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Michael
 hometown: Boston
-id: michael-moran
 last_name: Moran
 malegislature_url: https://malegislature.gov/Legislators/Profile/MJM1
 party: D

@@ -1,4 +1,5 @@
 ---
+id: joint-public-health
 chamber: joint
 house_chair: john-mahoney
 house_members:
@@ -12,7 +13,6 @@ house_members:
 - hannah-kane
 - michael-soter
 house_vice_chair: chynah-tyler
-id: joint-public-health
 malegislature_url: https://malegislature.gov/Committees/Detail/J16
 senate_chair: joanne-comerford
 senate_members:

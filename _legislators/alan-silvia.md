@@ -1,4 +1,5 @@
 ---
+id: alan-silvia
 chamber: house
 district: house-7th-bristol
 email: Alan.Silvia@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/CommitteeToElectAlanSilviaStateRepresentative/
 first_name: Alan
 hometown: Fall River
-id: alan-silvia
 last_name: Silvia
 malegislature_url: https://malegislature.gov/Legislators/Profile/A_S1
 party: D

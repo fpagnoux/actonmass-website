@@ -1,4 +1,5 @@
 ---
+id: josh-cutler
 chamber: house
 district: house-6th-plymouth
 email: Josh.Cutler@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Josh
 hometown: Duxbury
-id: josh-cutler
 last_name: Cutler
 malegislature_url: https://malegislature.gov/Legislators/Profile/JSC1
 party: D

@@ -1,4 +1,5 @@
 ---
+id: denise-provost
 chamber: house
 district: house-27th-middlesex
 email: Denise.Provost@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Denise
 hometown: Somerville
-id: denise-provost
 last_name: Provost
 malegislature_url: https://malegislature.gov/Legislators/Profile/D_P1
 party: D

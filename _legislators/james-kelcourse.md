@@ -1,4 +1,5 @@
 ---
+id: james-kelcourse
 chamber: house
 district: house-1st-essex
 email: james.kelcourse@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/jamesmkelcourse/
 first_name: James
 hometown: Amesbury
-id: james-kelcourse
 last_name: Kelcourse
 malegislature_url: https://malegislature.gov/Legislators/Profile/JMK1
 party: R

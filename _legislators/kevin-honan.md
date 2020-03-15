@@ -1,4 +1,5 @@
 ---
+id: kevin-honan
 chamber: house
 district: house-17th-suffolk
 email: Kevin.Honan@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Kevin
 hometown: Boston
-id: kevin-honan
 last_name: Honan
 malegislature_url: https://malegislature.gov/Legislators/Profile/KGH1
 party: D

@@ -1,10 +1,10 @@
 ---
+id: cindy-friedman
 chamber: senate
 district: senate-4th-middlesex
 email: Cindy.Friedman@masenate.gov
 first_name: Cindy
 hometown: Arlington
-id: cindy-friedman
 last_name: Friedman
 malegislature_url: https://malegislature.gov/Legislators/Profile/CFF0
 party: D

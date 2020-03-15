@@ -1,10 +1,10 @@
 ---
+id: joan-lovely
 chamber: senate
 district: senate-2nd-essex
 email: Joan.Lovely@masenate.gov
 first_name: Joan
 hometown: Salem
-id: joan-lovely
 last_name: Lovely
 malegislature_url: https://malegislature.gov/Legislators/Profile/JBL0
 party: D

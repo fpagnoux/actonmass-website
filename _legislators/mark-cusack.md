@@ -1,4 +1,5 @@
 ---
+id: mark-cusack
 chamber: house
 district: house-5th-norfolk
 email: Mark.Cusack@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Mark
 hometown: Braintree
-id: mark-cusack
 last_name: Cusack
 malegislature_url: https://malegislature.gov/Legislators/Profile/MJC1
 party: D

@@ -1,4 +1,5 @@
 ---
+id: joint-environment-natural-resources-and-agriculture
 chamber: joint
 house_chair: smitty-pignatelli
 house_members:
@@ -12,7 +13,6 @@ house_members:
 - james-kelcourse
 - norman-orrall
 house_vice_chair: daniel-cahill
-id: joint-environment-natural-resources-and-agriculture
 malegislature_url: https://malegislature.gov/Committees/Detail/J21
 senate_chair: anne-gobi
 senate_members:

@@ -1,4 +1,5 @@
 ---
+id: john-mahoney
 chamber: house
 district: house-13th-worcester
 email: John.Mahoney@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: John
 hometown: Worcester
-id: john-mahoney
 last_name: Mahoney
 malegislature_url: https://malegislature.gov/Legislators/Profile/JJM1
 party: D

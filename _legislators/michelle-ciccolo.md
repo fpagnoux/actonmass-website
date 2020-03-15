@@ -1,4 +1,5 @@
 ---
+id: michelle-ciccolo
 chamber: house
 district: house-15th-middlesex
 email: michelle.ciccolo@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Michelle
 hometown: Lexington
-id: michelle-ciccolo
 last_name: Ciccolo
 malegislature_url: https://malegislature.gov/Legislators/Profile/M_C2
 party: D

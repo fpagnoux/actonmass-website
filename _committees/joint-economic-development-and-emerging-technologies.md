@@ -1,4 +1,5 @@
 ---
+id: joint-economic-development-and-emerging-technologies
 chamber: joint
 house_chair: ann-margaret-ferrante
 house_members:
@@ -14,7 +15,6 @@ house_members:
 - shawn-dooley
 - michael-soter
 house_vice_chair: kenneth-gordon
-id: joint-economic-development-and-emerging-technologies
 malegislature_url: https://malegislature.gov/Committees/Detail/J12
 senate_chair: eric-lesser
 senate_members:

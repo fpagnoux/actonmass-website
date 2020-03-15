@@ -1,4 +1,5 @@
 ---
+id: david-nangle
 chamber: house
 district: house-17th-middlesex
 email: David.Nangle@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: David
 hometown: Lowell
-id: david-nangle
 last_name: Nangle
 malegislature_url: https://malegislature.gov/Legislators/Profile/DMN1
 party: D

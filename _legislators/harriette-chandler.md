@@ -1,10 +1,10 @@
 ---
+id: harriette-chandler
 chamber: senate
 district: senate-1st-worcester
 email: Harriette.Chandler@masenate.gov
 first_name: Harriette
 hometown: Worcester
-id: harriette-chandler
 last_name: Chandler
 malegislature_url: https://malegislature.gov/Legislators/Profile/HLC0
 party: D

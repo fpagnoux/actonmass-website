@@ -1,4 +1,5 @@
 ---
+id: colleen-garry
 chamber: house
 district: house-36th-middlesex
 email: Colleen.Garry@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Colleen
 hometown: Dracut
-id: colleen-garry
 last_name: Garry
 malegislature_url: https://malegislature.gov/Legislators/Profile/CMG1
 party: D

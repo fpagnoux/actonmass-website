@@ -1,4 +1,5 @@
 ---
+id: mindy-domb
 chamber: house
 district: house-3rd-hampshire
 email: mindy.domb@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/MindyForMA/
 first_name: Mindy
 hometown: Amherst
-id: mindy-domb
 last_name: Domb
 malegislature_url: https://malegislature.gov/Legislators/Profile/M_D2
 party: D

@@ -1,10 +1,10 @@
 ---
+id: james-welch
 chamber: senate
 district: senate-hampden
 email: James.Welch@masenate.gov
 first_name: James
 hometown: West Springfield
-id: james-welch
 last_name: Welch
 malegislature_url: https://malegislature.gov/Legislators/Profile/JTW0
 party: D

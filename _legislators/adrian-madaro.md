@@ -1,4 +1,5 @@
 ---
+id: adrian-madaro
 chamber: house
 district: house-1st-suffolk
 email: Adrian.Madaro@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Adrian
 hometown: Boston
-id: adrian-madaro
 last_name: Madaro
 malegislature_url: https://malegislature.gov/Legislators/Profile/ACM1
 party: D

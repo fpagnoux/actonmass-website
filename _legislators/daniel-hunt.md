@@ -1,4 +1,5 @@
 ---
+id: daniel-hunt
 chamber: house
 district: house-13th-suffolk
 email: Daniel.Hunt@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Daniel
 hometown: Boston
-id: daniel-hunt
 last_name: Hunt
 malegislature_url: https://malegislature.gov/Legislators/Profile/djh1
 party: D

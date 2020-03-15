@@ -1,10 +1,10 @@
 ---
+id: anne-gobi
 chamber: senate
 district: senate-worcester-hampden-hampshire-and-middlesex
 email: anne.gobi@masenate.gov
 first_name: Anne
 hometown: Spencer
-id: anne-gobi
 last_name: Gobi
 malegislature_url: https://malegislature.gov/Legislators/Profile/AMG0
 party: D

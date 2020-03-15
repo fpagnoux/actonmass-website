@@ -1,4 +1,5 @@
 ---
+id: paul-mark
 chamber: house
 district: house-2nd-berkshire
 email: Paul.Mark@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/Paul-Mark-310112786585/
 first_name: Paul
 hometown: Peru
-id: paul-mark
 last_name: Mark
 malegislature_url: https://malegislature.gov/Legislators/Profile/PWM1
 party: D

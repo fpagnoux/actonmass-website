@@ -1,4 +1,5 @@
 ---
+id: paul-donato
 chamber: house
 district: house-35th-middlesex
 email: Paul.Donato@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Paul
 hometown: Medford
-id: paul-donato
 last_name: Donato
 malegislature_url: https://malegislature.gov/Legislators/Profile/PJD1
 party: D

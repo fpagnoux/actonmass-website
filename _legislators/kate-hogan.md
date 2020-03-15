@@ -1,4 +1,5 @@
 ---
+id: kate-hogan
 chamber: house
 district: house-3rd-middlesex
 email: Kate.Hogan@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Kate
 hometown: Stow
-id: kate-hogan
 last_name: Hogan
 malegislature_url: https://malegislature.gov/Legislators/Profile/K_H1
 party: D

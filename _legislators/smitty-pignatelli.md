@@ -1,4 +1,5 @@
 ---
+id: smitty-pignatelli
 chamber: house
 district: house-4th-berkshire
 email: rep.smitty@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/RepWilliamSmittyPignatelli
 first_name: Smitty
 hometown: Lee
-id: smitty-pignatelli
 last_name: Pignatelli
 malegislature_url: https://malegislature.gov/Legislators/Profile/WSP1
 party: D

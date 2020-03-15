@@ -1,4 +1,5 @@
 ---
+id: donald-wong
 chamber: house
 district: house-9th-essex
 email: Donald.Wong@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/Representative-Donald-H-Wong-142928589091517/
 first_name: Donald
 hometown: Saugus
-id: donald-wong
 last_name: Wong
 malegislature_url: https://malegislature.gov/Legislators/Profile/DHW1
 party: R

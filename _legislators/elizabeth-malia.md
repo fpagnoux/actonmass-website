@@ -1,4 +1,5 @@
 ---
+id: elizabeth-malia
 chamber: house
 district: house-11th-suffolk
 email: Liz.Malia@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Elizabeth
 hometown: Boston
-id: elizabeth-malia
 last_name: Malia
 malegislature_url: https://malegislature.gov/Legislators/Profile/EAM1
 party: D

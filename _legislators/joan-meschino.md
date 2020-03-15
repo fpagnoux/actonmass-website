@@ -1,4 +1,5 @@
 ---
+id: joan-meschino
 chamber: house
 district: house-3rd-plymouth
 email: Joan.Meschino@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Joan
 hometown: Hull
-id: joan-meschino
 last_name: Meschino
 malegislature_url: https://malegislature.gov/Legislators/Profile/J_M1
 party: D

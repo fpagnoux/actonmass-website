@@ -1,10 +1,10 @@
 ---
+id: joanne-comerford
 chamber: senate
 district: senate-hampshire-franklin-and-worcester
 email: Jo.Comerford@masenate.gov
 first_name: Joanne
 hometown: Northampton
-id: joanne-comerford
 last_name: Comerford
 malegislature_url: https://malegislature.gov/Legislators/Profile/JMC0
 party: D

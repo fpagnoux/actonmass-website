@@ -1,4 +1,5 @@
 ---
+id: kathleen-lanatra
 chamber: house
 district: house-12th-plymouth
 email: kathleen.lanatra@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Kathleen
 hometown: Kingston
-id: kathleen-lanatra
 last_name: LaNatra
 malegislature_url: https://malegislature.gov/Legislators/Profile/KPL1
 party: D

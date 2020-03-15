@@ -1,4 +1,5 @@
 ---
+id: tami-gouveia
 chamber: house
 district: house-14th-middlesex
 email: tami.gouveia@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Tami
 hometown: Acton
-id: tami-gouveia
 last_name: Gouveia
 malegislature_url: https://malegislature.gov/Legislators/Profile/TLG1
 party: D

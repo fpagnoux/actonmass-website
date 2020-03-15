@@ -1,4 +1,5 @@
 ---
+id: robert-deleo
 chamber: house
 district: house-19th-suffolk
 email: Robert.DeLeo@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Robert
 hometown: Winthrop
-id: robert-deleo
 last_name: DeLeo
 malegislature_url: https://malegislature.gov/Legislators/Profile/RAD1
 party: D

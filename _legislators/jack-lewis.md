@@ -1,4 +1,5 @@
 ---
+id: jack-lewis
 chamber: house
 district: house-7th-middlesex
 email: Jack.Lewis@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Jack
 hometown: Framingham
-id: jack-lewis
 last_name: Lewis
 malegislature_url: https://malegislature.gov/Legislators/Profile/JPL1
 party: D

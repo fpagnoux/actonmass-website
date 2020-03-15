@@ -1,4 +1,5 @@
 ---
+id: angelo-scaccia
 chamber: house
 district: house-14th-suffolk
 email: Angelo.Scaccia@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Angelo
 hometown: Boston
-id: angelo-scaccia
 last_name: Scaccia
 malegislature_url: https://malegislature.gov/Legislators/Profile/AMS1
 party: D

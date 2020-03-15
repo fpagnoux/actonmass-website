@@ -1,4 +1,5 @@
 ---
+id: jeffrey-roy
 chamber: house
 district: house-10th-norfolk
 email: Jeffrey.Roy@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Jeffrey
 hometown: Franklin
-id: jeffrey-roy
 last_name: Roy
 malegislature_url: https://malegislature.gov/Legislators/Profile/JNR1
 party: D

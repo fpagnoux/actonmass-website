@@ -1,4 +1,5 @@
 ---
+id: paul-frost
 chamber: house
 district: house-7th-worcester
 email: Paul.Frost@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Paul
 hometown: Auburn
-id: paul-frost
 last_name: Frost
 malegislature_url: https://malegislature.gov/Legislators/Profile/PKF1
 party: R

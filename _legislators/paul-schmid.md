@@ -1,4 +1,5 @@
 ---
+id: paul-schmid
 chamber: house
 district: house-8th-bristol
 email: Paul.Schmid@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/statereppaulschmid/
 first_name: Paul
 hometown: Westport
-id: paul-schmid
 last_name: Schmid
 malegislature_url: https://malegislature.gov/Legislators/Profile/PAS1
 party: D

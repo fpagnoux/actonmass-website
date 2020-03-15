@@ -1,4 +1,5 @@
 ---
+id: gerard-cassidy
 chamber: house
 district: house-9th-plymouth
 email: Gerard.Cassidy@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Gerard
 hometown: Brockton
-id: gerard-cassidy
 last_name: Cassidy
 malegislature_url: https://malegislature.gov/Legislators/Profile/G_C2
 party: D

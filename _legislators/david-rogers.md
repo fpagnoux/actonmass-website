@@ -1,4 +1,5 @@
 ---
+id: david-rogers
 chamber: house
 district: house-24th-middlesex
 email: Dave.Rogers@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: David
 hometown: Cambridge
-id: david-rogers
 last_name: Rogers
 malegislature_url: https://malegislature.gov/Legislators/Profile/DMR1
 party: D

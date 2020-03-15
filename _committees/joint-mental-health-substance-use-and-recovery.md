@@ -1,4 +1,5 @@
 ---
+id: joint-mental-health-substance-use-and-recovery
 chamber: joint
 house_chair: marjorie-decker
 house_members:
@@ -14,7 +15,6 @@ house_members:
 - shaunna-oconnell
 - alyson-sullivan
 house_vice_chair: jose-tosado
-id: joint-mental-health-substance-use-and-recovery
 malegislature_url: https://malegislature.gov/Committees/Detail/J18
 senate_chair: julian-cyr
 senate_members:

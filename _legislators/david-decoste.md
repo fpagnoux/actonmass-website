@@ -1,4 +1,5 @@
 ---
+id: david-decoste
 chamber: house
 district: house-5th-plymouth
 email: David.DeCoste@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: David
 hometown: Norwell
-id: david-decoste
 last_name: DeCoste
 malegislature_url: https://malegislature.gov/Legislators/Profile/DFD1
 party: R

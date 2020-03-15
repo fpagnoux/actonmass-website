@@ -1,4 +1,5 @@
 ---
+id: william-straus
 chamber: house
 district: house-10th-bristol
 email: William.Straus@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/RepBillStraus
 first_name: William
 hometown: Mattapoisett
-id: william-straus
 last_name: Straus
 malegislature_url: https://malegislature.gov/Legislators/Profile/WMS1
 party: D

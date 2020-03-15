@@ -1,4 +1,5 @@
 ---
+id: carolyn-dykema
 chamber: house
 district: house-8th-middlesex
 email: Carolyn.Dykema@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Carolyn
 hometown: Holliston
-id: carolyn-dykema
 last_name: Dykema
 malegislature_url: https://malegislature.gov/Legislators/Profile/CCD1
 party: D

@@ -1,4 +1,5 @@
 ---
+id: nika-elugardo
 chamber: house
 district: house-15th-suffolk
 email: nika.elugardo@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Nika
 hometown: Boston
-id: nika-elugardo
 last_name: Elugardo
 malegislature_url: https://malegislature.gov/Legislators/Profile/N_E1
 party: D

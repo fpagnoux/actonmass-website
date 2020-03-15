@@ -1,4 +1,5 @@
 ---
+id: joint-ways-and-means
 chamber: joint
 house_chair: aaron-michlewitz
 house_members:
@@ -35,7 +36,6 @@ house_members:
 - david-muradian
 - timothy-whelan
 house_vice_chair: denise-garlick
-id: joint-ways-and-means
 malegislature_url: https://malegislature.gov/Committees/Detail/J39
 senate_chair: michael-rodrigues
 senate_members:

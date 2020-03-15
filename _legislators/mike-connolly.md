@@ -1,4 +1,5 @@
 ---
+id: mike-connolly
 chamber: house
 district: house-26th-middlesex
 email: Mike.Connolly@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Mike
 hometown: Cambridge
-id: mike-connolly
 last_name: Connolly
 malegislature_url: https://malegislature.gov/Legislators/Profile/M_C1
 party: D

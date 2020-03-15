@@ -1,4 +1,5 @@
 ---
+id: david-vieira
 chamber: house
 district: house-3rd-barnstable
 email: David.Vieira@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/david.t.vieira.9
 first_name: David
 hometown: Falmouth
-id: david-vieira
 last_name: Vieira
 malegislature_url: https://malegislature.gov/Legislators/Profile/DTV1
 party: R

@@ -1,4 +1,5 @@
 ---
+id: thomas-walsh
 chamber: house
 district: house-12th-essex
 email: Thomas.Walsh@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/StateRepresentativeTomWalsh/
 first_name: Thomas
 hometown: Peabody
-id: thomas-walsh
 last_name: Walsh
 malegislature_url: https://malegislature.gov/Legislators/Profile/TJW1
 party: D

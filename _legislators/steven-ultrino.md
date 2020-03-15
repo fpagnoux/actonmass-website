@@ -1,4 +1,5 @@
 ---
+id: steven-ultrino
 chamber: house
 district: house-33rd-middlesex
 email: Steven.Ultrino@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Steven
 hometown: Malden
-id: steven-ultrino
 last_name: Ultrino
 malegislature_url: https://malegislature.gov/Legislators/Profile/S_G2
 party: D

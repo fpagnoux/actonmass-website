@@ -1,4 +1,5 @@
 ---
+id: joint-revenue
 chamber: joint
 house_chair: mark-cusack
 house_members:
@@ -12,7 +13,6 @@ house_members:
 - randy-hunt
 - nicholas-boldyga
 house_vice_chair: paul-schmid
-id: joint-revenue
 malegislature_url: https://malegislature.gov/Committees/Detail/J26
 senate_chair: adam-hinds
 senate_members:

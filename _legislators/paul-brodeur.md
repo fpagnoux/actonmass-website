@@ -1,4 +1,5 @@
 ---
+id: paul-brodeur
 chamber: house
 district: house-32nd-middlesex
 email: ''
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Paul
 hometown: Melrose
-id: paul-brodeur
 last_name: Brodeur
 malegislature_url: ''
 party: D

@@ -1,4 +1,5 @@
 ---
+id: house-ways-and-means
 chamber: house
 house_chair: aaron-michlewitz
 house_members:
@@ -35,7 +36,6 @@ house_members:
 - david-muradian
 - timothy-whelan
 house_vice_chair: denise-garlick
-id: house-ways-and-means
 malegislature_url: https://malegislature.gov/Committees/Detail/H34
 title: House Committee on Ways and Means
 ---

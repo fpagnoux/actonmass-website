@@ -1,4 +1,5 @@
 ---
+id: christina-minicucci
 chamber: house
 district: house-14th-essex
 email: christina.minicucci@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/christina4rep/
 first_name: Christina
 hometown: North Andover
-id: christina-minicucci
 last_name: Minicucci
 malegislature_url: https://malegislature.gov/Legislators/Profile/CAM1
 party: D

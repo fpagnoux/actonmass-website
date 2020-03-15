@@ -1,10 +1,10 @@
 ---
+id: dean-tran
 chamber: senate
 district: senate-worcester-and-middlesex
 email: dean.tran@masenate.gov
 first_name: Dean
 hometown: Fitchburg
-id: dean-tran
 last_name: Tran
 malegislature_url: https://malegislature.gov/Legislators/Profile/DAT0
 party: R

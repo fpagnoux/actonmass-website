@@ -1,4 +1,5 @@
 ---
+id: daniel-donahue
 chamber: house
 district: house-16th-worcester
 email: Daniel.Donahue@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Daniel
 hometown: Worcester
-id: daniel-donahue
 last_name: Donahue
 malegislature_url: https://malegislature.gov/Legislators/Profile/DMD1
 party: D

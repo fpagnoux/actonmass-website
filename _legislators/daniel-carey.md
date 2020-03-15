@@ -1,4 +1,5 @@
 ---
+id: daniel-carey
 chamber: house
 district: house-2nd-hampshire
 email: daniel.carey@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/CareyforStateRep/
 first_name: Daniel
 hometown: Easthampton
-id: daniel-carey
 last_name: Carey
 malegislature_url: https://malegislature.gov/Legislators/Profile/DRC1
 party: D

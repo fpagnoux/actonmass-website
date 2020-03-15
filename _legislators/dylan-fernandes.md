@@ -1,4 +1,5 @@
 ---
+id: dylan-fernandes
 chamber: house
 district: house-barnstable-dukes-and-nantucket
 email: Dylan.Fernandes@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/RepDylanFernandes/
 first_name: Dylan
 hometown: Falmouth
-id: dylan-fernandes
 last_name: Fernandes
 malegislature_url: https://malegislature.gov/Legislators/Profile/DAF1
 party: D

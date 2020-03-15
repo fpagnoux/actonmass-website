@@ -1,4 +1,5 @@
 ---
+id: lindsay-sabadosa
 chamber: house
 district: house-1st-hampshire
 email: lindsay.sabadosa@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/LSabadosaMA/
 first_name: Lindsay
 hometown: Northampton
-id: lindsay-sabadosa
 last_name: Sabadosa
 malegislature_url: https://malegislature.gov/Legislators/Profile/L_S1
 party: D

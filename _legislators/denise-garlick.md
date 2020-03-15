@@ -1,4 +1,5 @@
 ---
+id: denise-garlick
 chamber: house
 district: house-13th-norfolk
 email: Denise.Garlick@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Denise
 hometown: Needham
-id: denise-garlick
 last_name: Garlick
 malegislature_url: https://malegislature.gov/Legislators/Profile/DCG1
 party: D

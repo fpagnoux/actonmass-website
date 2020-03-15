@@ -1,10 +1,10 @@
 ---
+id: michael-rush
 chamber: senate
 district: senate-norfolk-and-suffolk
 email: Mike.Rush@masenate.gov
 first_name: Michael
 hometown: Rush
-id: michael-rush
 last_name: Rush
 malegislature_url: https://malegislature.gov/Legislators/Profile/MFR0
 party: D

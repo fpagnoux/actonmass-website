@@ -1,4 +1,5 @@
 ---
+id: carole-fiola
 chamber: house
 district: house-6th-bristol
 email: Carole.Fiola@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/electcarole
 first_name: Carole
 hometown: Fall River
-id: carole-fiola
 last_name: Fiola
 malegislature_url: https://malegislature.gov/Legislators/Profile/CAF1
 party: D

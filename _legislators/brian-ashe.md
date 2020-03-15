@@ -1,4 +1,5 @@
 ---
+id: brian-ashe
 chamber: house
 district: house-2nd-hampden
 email: Brian.Ashe@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/repashe/
 first_name: Brian
 hometown: Longmeadow
-id: brian-ashe
 last_name: Ashe
 malegislature_url: https://malegislature.gov/Legislators/Profile/BMA1
 party: D

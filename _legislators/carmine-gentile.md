@@ -1,4 +1,5 @@
 ---
+id: carmine-gentile
 chamber: house
 district: house-13th-middlesex
 email: carmine.gentile@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Carmine
 hometown: Sudbury
-id: carmine-gentile
 last_name: Gentile
 malegislature_url: https://malegislature.gov/Legislators/Profile/CLG1
 party: D

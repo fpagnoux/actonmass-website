@@ -1,4 +1,5 @@
 ---
+id: david-leboeuf
 chamber: house
 district: house-17th-worcester
 email: david.leboeuf@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: David
 hometown: Worcester
-id: david-leboeuf
 last_name: LeBoeuf
 malegislature_url: https://malegislature.gov/Legislators/Profile/DAL1
 party: D

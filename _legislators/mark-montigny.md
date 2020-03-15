@@ -1,10 +1,10 @@
 ---
+id: mark-montigny
 chamber: senate
 district: senate-2nd-bristol-and-plymouth
 email: Mark.Montigny@masenate.gov
 first_name: Mark
 hometown: New Bedford
-id: mark-montigny
 last_name: Montigny
 malegislature_url: https://malegislature.gov/Legislators/Profile/MCM0
 party: D

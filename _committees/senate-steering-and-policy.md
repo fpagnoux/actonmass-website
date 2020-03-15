@@ -1,6 +1,6 @@
 ---
-chamber: senate
 id: senate-steering-and-policy
+chamber: senate
 malegislature_url: https://malegislature.gov/Committees/Detail/S50
 senate_chair: mark-montigny
 senate_members:

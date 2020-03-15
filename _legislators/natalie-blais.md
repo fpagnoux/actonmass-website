@@ -1,4 +1,5 @@
 ---
+id: natalie-blais
 chamber: house
 district: house-1st-franklin
 email: Natalie.Blais@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/BlaisForMA/
 first_name: Natalie
 hometown: Sunderland
-id: natalie-blais
 last_name: Blais
 malegislature_url: https://malegislature.gov/Legislators/Profile/NMB1
 party: D

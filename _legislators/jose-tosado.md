@@ -1,4 +1,5 @@
 ---
+id: jose-tosado
 chamber: house
 district: house-9th-hampden
 email: Jose.Tosado@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/JoseFTosado
 first_name: "Jos\xE9"
 hometown: Springfield
-id: jose-tosado
 last_name: Tosado
 malegislature_url: https://malegislature.gov/Legislators/Profile/JFT1
 party: D

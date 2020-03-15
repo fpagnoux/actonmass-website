@@ -1,4 +1,5 @@
 ---
+id: joint-public-service
 chamber: joint
 house_chair: jerald-parisella
 house_members:
@@ -12,7 +13,6 @@ house_members:
 - timothy-whelan
 - david-decoste
 house_vice_chair: gerard-cassidy
-id: joint-public-service
 malegislature_url: https://malegislature.gov/Committees/Detail/J23
 senate_chair: barry-finegold
 senate_members:

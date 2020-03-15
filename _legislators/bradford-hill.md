@@ -1,4 +1,5 @@
 ---
+id: bradford-hill
 chamber: house
 district: house-4th-essex
 email: Brad.Hill@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/repbradhill/
 first_name: Bradford
 hometown: Ipswich
-id: bradford-hill
 last_name: Hill
 malegislature_url: https://malegislature.gov/Legislators/Profile/BRH1
 party: R

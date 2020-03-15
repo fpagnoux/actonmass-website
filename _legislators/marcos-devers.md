@@ -1,4 +1,5 @@
 ---
+id: marcos-devers
 chamber: house
 district: house-16th-essex
 email: marcos.devers@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/staterepdevers
 first_name: Marcos
 hometown: Lawrence
-id: marcos-devers
 last_name: Devers
 malegislature_url: https://malegislature.gov/Legislators/Profile/MAD1
 party: D

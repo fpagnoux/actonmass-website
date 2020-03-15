@@ -1,4 +1,5 @@
 ---
+id: liz-miranda
 chamber: house
 district: house-5th-suffolk
 email: liz.miranda@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Liz
 hometown: Boston
-id: liz-miranda
 last_name: Miranda
 malegislature_url: https://malegislature.gov/Legislators/Profile/L_M2
 party: D

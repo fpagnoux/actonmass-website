@@ -1,4 +1,5 @@
 ---
+id: aaron-michlewitz
 chamber: house
 district: house-3rd-suffolk
 email: Aaron.M.Michlewitz@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Aaron
 hometown: Boston
-id: aaron-michlewitz
 last_name: Michlewitz
 malegislature_url: https://malegislature.gov/Legislators/Profile/AMM1
 party: D

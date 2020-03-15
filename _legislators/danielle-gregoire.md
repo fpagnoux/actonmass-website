@@ -1,4 +1,5 @@
 ---
+id: danielle-gregoire
 chamber: house
 district: house-4th-middlesex
 email: Danielle.Gregoire@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Danielle
 hometown: Marlborough
-id: danielle-gregoire
 last_name: Gregoire
 malegislature_url: https://malegislature.gov/Legislators/Profile/DWG1
 party: D

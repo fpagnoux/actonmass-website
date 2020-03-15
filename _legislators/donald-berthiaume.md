@@ -1,4 +1,5 @@
 ---
+id: donald-berthiaume
 chamber: house
 district: house-5th-worcester
 email: Donald.Berthiaume@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Donald
 hometown: Spencer
-id: donald-berthiaume
 last_name: Berthiaume
 malegislature_url: https://malegislature.gov/Legislators/Profile/DRB1
 party: R

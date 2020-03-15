@@ -1,4 +1,5 @@
 ---
+id: jon-santiago
 chamber: house
 district: house-9th-suffolk
 email: jon.santiago@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Jon
 hometown: Boston
-id: jon-santiago
 last_name: Santiago
 malegislature_url: https://malegislature.gov/Legislators/Profile/J_S2
 party: D

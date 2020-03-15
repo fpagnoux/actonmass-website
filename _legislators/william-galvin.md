@@ -1,4 +1,5 @@
 ---
+id: william-galvin
 chamber: house
 district: house-6th-norfolk
 email: William.Galvin@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: William
 hometown: Canton
-id: william-galvin
 last_name: Galvin
 malegislature_url: https://malegislature.gov/Legislators/Profile/WCG1
 party: D

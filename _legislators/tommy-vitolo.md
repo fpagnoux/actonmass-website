@@ -1,4 +1,5 @@
 ---
+id: tommy-vitolo
 chamber: house
 district: house-15th-norfolk
 email: tommy.vitolo@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Tommy
 hometown: Brookline
-id: tommy-vitolo
 last_name: Vitolo
 malegislature_url: https://malegislature.gov/Legislators/Profile/T_V1
 party: D

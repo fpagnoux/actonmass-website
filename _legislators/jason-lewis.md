@@ -1,10 +1,10 @@
 ---
+id: jason-lewis
 chamber: senate
 district: senate-5th-middlesex
 email: Jason.Lewis@masenate.gov
 first_name: Jason
 hometown: Winchester
-id: jason-lewis
 last_name: Lewis
 malegislature_url: https://malegislature.gov/Legislators/Profile/jml0
 party: D

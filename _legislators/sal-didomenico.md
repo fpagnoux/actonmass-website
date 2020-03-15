@@ -1,10 +1,10 @@
 ---
+id: sal-didomenico
 chamber: senate
 district: senate-middlesex-and-suffolk
 email: Sal.DiDomenico@masenate.gov
 first_name: Sal
 hometown: Everett
-id: sal-didomenico
 last_name: DiDomenico
 malegislature_url: https://malegislature.gov/Legislators/Profile/SND0
 party: D

@@ -1,4 +1,5 @@
 ---
+id: sean-garballey
 chamber: house
 district: house-23rd-middlesex
 email: Sean.Garballey@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Sean
 hometown: Arlington
-id: sean-garballey
 last_name: Garballey
 malegislature_url: https://malegislature.gov/Legislators/Profile/S_G1
 party: D

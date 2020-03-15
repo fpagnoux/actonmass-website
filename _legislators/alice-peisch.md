@@ -1,4 +1,5 @@
 ---
+id: alice-peisch
 chamber: house
 district: house-14th-norfolk
 email: Alice.Peisch@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Alice
 hometown: Wellesley
-id: alice-peisch
 last_name: Peisch
 malegislature_url: https://malegislature.gov/Legislators/Profile/AHP1
 party: D

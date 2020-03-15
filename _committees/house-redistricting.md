@@ -1,4 +1,5 @@
 ---
+id: house-redistricting
 chamber: house
 house_chair: paul-mark
 house_members:
@@ -12,7 +13,6 @@ house_members:
 - steven-howitt
 - nicholas-boldyga
 house_vice_chair: bud-williams
-id: house-redistricting
 malegislature_url: https://malegislature.gov/Committees/Detail/RE0
 title: House Committee on Redistricting
 ---

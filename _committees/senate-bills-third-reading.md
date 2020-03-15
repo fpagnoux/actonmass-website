@@ -1,6 +1,6 @@
 ---
-chamber: senate
 id: senate-bills-third-reading
+chamber: senate
 malegislature_url: https://malegislature.gov/Committees/Detail/S31
 senate_chair: sal-didomenico
 senate_members:

@@ -1,4 +1,5 @@
 ---
+id: randy-hunt
 chamber: house
 district: house-5th-barnstable
 email: Randy.Hunt@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/randyhuntstaterep/
 first_name: Randy
 hometown: Sandwich
-id: randy-hunt
 last_name: Hunt
 malegislature_url: https://malegislature.gov/Legislators/Profile/R_H1
 party: R

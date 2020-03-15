@@ -1,4 +1,5 @@
 ---
+id: daniel-ryan
 chamber: house
 district: house-2nd-suffolk
 email: Dan.Ryan@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Daniel
 hometown: Boston
-id: daniel-ryan
 last_name: Ryan
 malegislature_url: https://malegislature.gov/Legislators/Profile/djr1
 party: D

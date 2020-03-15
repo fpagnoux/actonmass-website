@@ -1,4 +1,5 @@
 ---
+id: michael-soter
 chamber: house
 district: house-8th-worcester
 email: michael.soter@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Michael
 hometown: Bellingham
-id: michael-soter
 last_name: Soter
 malegislature_url: https://malegislature.gov/Legislators/Profile/MJS1
 party: R

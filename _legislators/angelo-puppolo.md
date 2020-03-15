@@ -1,4 +1,5 @@
 ---
+id: angelo-puppolo
 chamber: house
 district: house-12th-hampden
 email: Angelo.Puppolo@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: https://www.facebook.com/angelo.puppolo
 first_name: Angelo
 hometown: Springfield
-id: angelo-puppolo
 last_name: Puppolo
 malegislature_url: https://malegislature.gov/Legislators/Profile/AJP1
 party: D

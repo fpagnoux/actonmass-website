@@ -1,4 +1,5 @@
 ---
+id: david-linsky
 chamber: house
 district: house-5th-middlesex
 email: David.Linsky@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: David
 hometown: Natick
-id: david-linsky
 last_name: Linsky
 malegislature_url: https://malegislature.gov/Legislators/Profile/DPL1
 party: D

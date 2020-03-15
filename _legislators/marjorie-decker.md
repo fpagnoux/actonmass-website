@@ -1,4 +1,5 @@
 ---
+id: marjorie-decker
 chamber: house
 district: house-25th-middlesex
 email: Marjorie.Decker@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: Marjorie
 hometown: Cambridge
-id: marjorie-decker
 last_name: Decker
 malegislature_url: https://malegislature.gov/Legislators/Profile/MCD1
 party: D

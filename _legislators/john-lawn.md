@@ -1,4 +1,5 @@
 ---
+id: john-lawn
 chamber: house
 district: house-10th-middlesex
 email: John.Lawn@mahouse.gov
@@ -6,7 +7,6 @@ end_date: ''
 facebook: ''
 first_name: John
 hometown: Watertown
-id: john-lawn
 last_name: Lawn
 malegislature_url: https://malegislature.gov/Legislators/Profile/JJL2
 party: D
