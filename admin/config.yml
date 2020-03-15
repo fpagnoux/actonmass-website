@@ -76,9 +76,8 @@ collections:
         name: district
         widget: relation
         collection: districts
-        searchFields:
-          - name
-          - chamber
+        searchFields: [name]
+        displayFields: [name]
         valueField: id
       - label: Party
         name: party
@@ -185,27 +184,32 @@ collections:
             value: senate
           - label: Joint
             value: joint
-      - label: Chair
-        name: chair
+      - &legislator-picker
+        label: House Chair
+        name: house_chair
         widget: relation
         collection: legislators
         searchFields:
           - last_name
         valueField: id
-      - label: Vice-chair
-        name: vice_chair
-        widget: relation
-        collection: legislators
-        searchFields:
+        displayField:
           - last_name
-        valueField: id
-      - label: Members
-        name: members
-        widget: relation
-        collection: legislators
-        searchFields:
-          - last_name
-        valueField: id
+      - <<: *legislator-picker
+        label: House Vice-chair
+        name: house_vice_chair
+      - <<: *legislator-picker
+        label: Senate Chair
+        name: senate_chair
+      - <<: *legislator-picker
+        label: Senate Vice-chair
+        name: senate_vice_chair
+      - <<: *legislator-picker
+        label: House Members
+        name: house_members
+        multiple: true
+      - <<: *legislator-picker
+        label: Senate Members
+        name: senate_members
         multiple: true
       - label: malegislature.gov URL
         name: malegislature_url
@@ -247,12 +251,16 @@ collections:
         collection: committees
         searchFields:
           - title
+        displayField:
+          - title
         valueField: id
       - label: Issue
         name: issue
         widget: relation
         collection: issues
         searchFields:
+          - title
+        displayField:
           - title
         valueField: id
       - label: Summary bullet-points
@@ -271,29 +279,17 @@ collections:
           label: Org
           name: org
           widget: string
-      - label: House lead sponsors
+      - <<: *legislator-picker
+        label: House lead sponsors
         name: house_lead_sponsors
-        widget: relation
-        collection: legislators
-        searchFields:
-          - last_name
-        valueField: id
         multiple: true
-      - label: Senate lead sponsors
+      - <<: *legislator-picker
+        label: Senate lead sponsors
         name: senate_lead_sponsors
-        widget: relation
-        collection: legislators
-        searchFields:
-          - last_name
-        valueField: id
         multiple: true
-      - label: Co-sponsors
+      - <<: *legislator-picker
+        label: Co-sponsors
         name: co_sponsors
-        widget: relation
-        collection: legislators
-        searchFields:
-          - last_name
-        valueField: id
         multiple: true
       - label: History
         name: history
@@ -304,7 +300,9 @@ collections:
             widget: relation
             collection: bill_events
             valueField: id
-            searchField:
+            searchFields:
+              - description
+            displayFields:
               - description
           - label: Date (fill only if no detailed bill event)
             name: date
@@ -332,6 +330,8 @@ collections:
         widget: relation
         collection: bills
         searchFields:
+          - short_title
+        displayFields:
           - short_title
         valueField: id
       - label: Vote descriptions
@@ -363,6 +363,8 @@ collections:
             widget: relation
             collection: legislators
             searchFields:
+              - last_name
+            displayFields:
               - last_name
             valueField: id
           - label: Vote
