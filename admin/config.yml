@@ -183,6 +183,8 @@ collections:
             value: house
           - label: Senate
             value: senate
+          - label: Joint
+            value: joint
       - label: Chair
         name: chair
         widget: relation
