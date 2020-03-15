@@ -79,7 +79,7 @@ collections:
         searchFields:
           - name
           - chamber
-        valueField: name
+        valueField: id
       - label: Party
         name: party
         widget: select
@@ -191,21 +191,21 @@ collections:
         collection: legislators
         searchFields:
           - last_name
-        valueField: last_name
+        valueField: id
       - label: Vice-chair
         name: vice_chair
         widget: relation
         collection: legislators
         searchFields:
           - last_name
-        valueField: last_name
+        valueField: id
       - label: Members
         name: members
         widget: relation
         collection: legislators
         searchFields:
           - last_name
-        valueField: last_name
+        valueField: id
         multiple: true
       - label: malegislature.gov URL
         name: malegislature_url
@@ -247,14 +247,14 @@ collections:
         collection: committees
         searchFields:
           - title
-        valueField: title
+        valueField: id
       - label: Issue
         name: issue
         widget: relation
         collection: issues
         searchFields:
           - title
-        valueField: title
+        valueField: id
       - label: Summary bullet-points
         name: summary
         widget: list
@@ -277,7 +277,7 @@ collections:
         collection: legislators
         searchFields:
           - last_name
-        valueField: last_name
+        valueField: id
         multiple: true
       - label: Senate lead sponsors
         name: senate_lead_sponsors
@@ -285,7 +285,7 @@ collections:
         collection: legislators
         searchFields:
           - last_name
-        valueField: last_name
+        valueField: id
         multiple: true
       - label: Co-sponsors
         name: co_sponsors
@@ -293,7 +293,7 @@ collections:
         collection: legislators
         searchFields:
           - last_name
-        valueField: last_name
+        valueField: id
         multiple: true
       - label: History
         name: history
@@ -303,7 +303,7 @@ collections:
             name: bill_event
             widget: relation
             collection: bill_events
-            valueField: description
+            valueField: id
             searchField:
               - description
           - label: Date (fill only if no detailed bill event)
@@ -333,7 +333,7 @@ collections:
         collection: bills
         searchFields:
           - short_title
-        valueField: short_title
+        valueField: id
       - label: Vote descriptions
         name: vote_descriptions
         widget: object
@@ -364,7 +364,7 @@ collections:
             collection: legislators
             searchFields:
               - last_name
-            valueField: last_name
+            valueField: id
           - label: Vote
             name: vote
             widget: select
