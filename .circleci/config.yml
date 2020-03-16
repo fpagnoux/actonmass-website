@@ -36,12 +36,12 @@ jobs:
             - $HOME/.local
             - ./node_modules
 
-    - save_cache:
+      - save_cache:
           key: ruby-cache-{{ checksum "Gemfile" }}
           paths:
             - ./vendor/bundle
 
-    - save_cache:
+      - save_cache:
           key: node-cache-{{ checksum "package.json" }}
           paths:
             - ./node_modules
