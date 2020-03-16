@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A (State)house Divided
+date: 2020-03-16T16:55:29.937Z
 ---
 
 BEACON HILL - The Massachusetts House returned to business today, and returning lawmakers and two dozen new members took the oath of office, starting their 191st biennial session, which will last until the end of 2019. Usually these inaugurations are sleepy, ceremonial affairs where school children recite the pledge of allegiance, legislators take their oaths of office, elect a Speaker, and head home.
@@ -23,7 +24,9 @@ In contrast to the disunity in the House, Karen Spilka was elected Senate Presid
 
 Earlier in the day, Rep. Maria Robinson made a motion to reform the election of the Speaker in Democratic Caucus (where Democratic members decide on one candidate before voting in public during formal session).  The rule change would have allowed Reps to vote by secret ballot, so as to avoid retribution for voting against the eventual Speaker.  The proposal was defeated by a voice vote, so there is no record of who supported or opposed it.  According to State House News Service, the following Reps. spoke against the motion:  Reps. Thomas Stanley of Waltham, David Linsky of Natick, Ann-Margaret Ferrante of Gloucester, Tricia Farley-Bouvier of Pittsfield, Sarah Peake of Provincetown, Ken Gordon of Bedford, Tackey Chan of Quincy, Alan Silvia of Fall River and Antonio Cabral of New Bedford.3
 
-Act on Mass, Inc. is a 501(c)4 organization that works to promote transparency in the Massachusetts State House and advocates for the passage of progressive legislation.   Stay tuned for our website launch later this month with more info on how to get involved.
+Act on Mass, Inc. is a 501(c)4 organization that works to promote transparency in the Massachusetts State House and advocates for the passage of progressive legislation.
+
+Stay tuned for our website launch later this month with more info on how to get involved.
 
 1  https://www.metrowestdailynews.com/news/20190102/secret-vote-for-speaker-squashed
 
