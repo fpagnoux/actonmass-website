@@ -107,13 +107,16 @@ collections:
         name: square_picture
         widget: string
         required: false
-      - label: End date
+      - &date-picker
+        label: End date
         name: end_date
-        widget: string
         required: false
-      - label: Start date
+        widget: datetime
+        format: YYYY-MM-DD
+        timeFormat: false
+      - <<: *date-picker
+        label: Start date
         name: start_date
-        widget: string
         required: false
       - label: malegislature.gov URL
         name: malegislature_url
@@ -192,7 +195,7 @@ collections:
         searchFields:
           - last_name
         valueField: id
-        displayField:
+        displayFields:
           - last_name
       - <<: *legislator-picker
         label: House Vice-chair
@@ -251,7 +254,7 @@ collections:
         collection: committees
         searchFields:
           - title
-        displayField:
+        displayFields:
           - title
         valueField: id
       - label: Issue
@@ -260,7 +263,7 @@ collections:
         collection: issues
         searchFields:
           - title
-        displayField:
+        displayFields:
           - title
         valueField: id
       - label: Summary bullet-points
@@ -304,9 +307,9 @@ collections:
               - description
             displayFields:
               - description
-          - label: Date (fill only if no detailed bill event)
+          - <<: *date-picker
+            label: Date (fill only if no detailed bill event)
             name: date
-            widget: string
           - label: Description (fill only if no detailed bill event)
             name: description
   - name: bill_events
@@ -319,9 +322,9 @@ collections:
     editor:
       preview: false
     fields:
-      - label: Date
+      - <<: *date-picker
+        label: Date
         name: date
-        widget: string
       - label: Description
         name: description
         widget: string
