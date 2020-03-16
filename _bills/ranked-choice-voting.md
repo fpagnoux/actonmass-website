@@ -8,4 +8,7 @@ senate_no: S414
 senate_link: https://malegislature.gov/Bills/191/S414
 issue: voting-rights
 orgs: []
+summary: []
+co_sponsors: []
+history: []
 ---

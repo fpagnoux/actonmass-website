@@ -9,4 +9,7 @@ senate_link: https://malegislature.gov/Bills/191/S683
 issue: healthcare
 orgs:
 - PM
+summary: []
+co_sponsors: []
+history: []
 ---

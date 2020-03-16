@@ -9,4 +9,7 @@ senate_link: https://malegislature.gov/Bills/191/S263
 issue: lgbtq-rights
 orgs:
 - RAINN
+summary: []
+co_sponsors: []
+history: []
 ---

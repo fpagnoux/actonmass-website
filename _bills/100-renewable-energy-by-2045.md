@@ -16,4 +16,7 @@ house_lead_sponsors:
   - sean-garballey
 senate_lead_sponsors:
   - james-eldridge
+summary: []
+co_sponsors: []
+history: []
 ---

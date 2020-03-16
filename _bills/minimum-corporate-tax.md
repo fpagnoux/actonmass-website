@@ -8,4 +8,7 @@ senate_no: ''
 senate_link: https://malegislature.gov/Bills/191/
 issue: ''
 orgs: []
+summary: []
+co_sponsors: []
+history: []
 ---

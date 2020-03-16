@@ -9,4 +9,7 @@ senate_no: S1066
 senate_link: https://malegislature.gov/Bills/191/S1066
 issue: ''
 orgs: []
+summary: []
+co_sponsors: []
+history: []
 ---

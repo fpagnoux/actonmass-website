@@ -9,4 +9,7 @@ senate_link: https://malegislature.gov/Bills/191/S408
 issue: gender-equity
 orgs:
 - NOW
+summary: []
+co_sponsors: []
+history: []
 ---

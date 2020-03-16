@@ -9,4 +9,7 @@ senate_link: https://malegislature.gov/Bills/191/S1898
 issue: gender-equity
 orgs:
 - PM
+summary: []
+co_sponsors: []
+history: []
 ---

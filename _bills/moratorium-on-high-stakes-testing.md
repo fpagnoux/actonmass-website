@@ -9,4 +9,7 @@ senate_link: https://malegislature.gov/Bills/191/S328
 issue: education
 orgs:
 - MTA
+summary: []
+co_sponsors: []
+history: []
 ---

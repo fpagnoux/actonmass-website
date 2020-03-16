@@ -8,4 +8,7 @@ senate_no: S857
 senate_link: https://malegislature.gov/Bills/191/S857
 issue: criminal-justice-reform
 orgs: []
+summary: []
+co_sponsors: []
+history: []
 ---

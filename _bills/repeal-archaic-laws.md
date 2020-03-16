@@ -9,4 +9,7 @@ senate_link: https://malegislature.gov/Bills/191/
 issue: lgbtq-rights
 orgs:
 - MassEquality
+summary: []
+co_sponsors: []
+history: []
 ---

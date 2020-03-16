@@ -11,4 +11,7 @@ senate_link: https://malegislature.gov/Bills/191/S16
 issue: ''
 orgs:
 - Raise Up
+summary: []
+co_sponsors: []
+history: []
 ---

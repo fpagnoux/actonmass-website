@@ -8,4 +8,7 @@ senate_no: S389
 senate_link: https://malegislature.gov/Bills/191/S389
 issue: voting-rights
 orgs: []
+summary: []
+co_sponsors: []
+history: []
 ---

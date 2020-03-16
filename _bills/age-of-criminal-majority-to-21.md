@@ -9,4 +9,7 @@ senate_link: https://malegislature.gov/Bills/191/S825
 issue: criminal-justice-reform
 orgs:
 - NASW
+summary: []
+co_sponsors: []
+history: []
 ---

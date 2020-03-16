@@ -9,4 +9,7 @@ senate_link: https://malegislature.gov/Bills/191/S2061
 issue: immigration
 orgs:
 - SEIU
+summary: []
+co_sponsors: []
+history: []
 ---

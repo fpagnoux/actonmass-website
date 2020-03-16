@@ -9,4 +9,7 @@ senate_link: https://malegislature.gov/Bills/191/S672
 issue: healthcare
 orgs:
 - MNA
+summary: []
+co_sponsors: []
+history: []
 ---

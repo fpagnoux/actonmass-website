@@ -9,4 +9,7 @@ senate_link: https://malegislature.gov/Bills/191/S1110
 issue: ''
 orgs:
 - NOW
+summary: []
+co_sponsors: []
+history: []
 ---

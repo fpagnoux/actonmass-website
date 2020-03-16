@@ -8,4 +8,7 @@ senate_no: S396
 senate_link: https://malegislature.gov/Bills/191/S396
 issue: voting-rights
 orgs: []
+summary: []
+co_sponsors: []
+history: []
 ---

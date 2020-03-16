@@ -10,4 +10,7 @@ issue: climate
 orgs:
 - MA Power Forward
 - CWA
+summary: []
+co_sponsors: []
+history: []
 ---
