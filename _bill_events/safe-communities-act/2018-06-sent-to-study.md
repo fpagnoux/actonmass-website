@@ -7,23 +7,42 @@ vote_descriptions:
   unk: Won't tell us how they voted on the [Safe Communities Act](/bills/safe-communities-act/) in committee
   no: Voted against sending the [Safe Communities Act](/bills/safe-communities-act/) to study
 votes:
-  michael-moore: unk
-  michael-rush: no
-  michael-brady: unk
-  sonia-chang-diaz: no
-  william-brownsberger: unk
-  richard-ross: unk
-  harold-naughton: unk
-  alan-silvia: unk
-  thomas-walsh: unk
-  bruce-ayers: unk
-  james-dwyer: unk
-  rady-mom: unk
-  paul-tucker: unk
-  juana-matias: no
-  chynah-tyler: unk
-  bud-williams: unk
-  david-vieira: unk
-  david-muradian: unk
-  peter-durant: unk
+  - legislator: michael-moore
+    vote: unk
+  - legislator: michael-rush
+    vote: no
+  - legislator: michael-brady
+    vote: unk
+  - legislator: sonia-chang-diaz
+    vote: no
+  - legislator: william-brownsberger
+    vote: unk
+  - legislator: richard-ross
+    vote: unk
+  - legislator: harold-naughton
+    vote: unk
+  - legislator: alan-silvia
+    vote: unk
+  - legislator: thomas-walsh
+    vote: unk
+  - legislator: bruce-ayers
+    vote: unk
+  - legislator: james-dwyer
+    vote: unk
+  - legislator: rady-mom
+    vote: unk
+  - legislator: paul-tucker
+    vote: unk
+  - legislator: juana-matias
+    vote: no
+  - legislator: chynah-tyler
+    vote: unk
+  - legislator: bud-williams
+    vote: unk
+  - legislator: david-vieira
+    vote: unk
+  - legislator: david-muradian
+    vote: unk
+  - legislator: peter-durant
+    vote: unk
 ---

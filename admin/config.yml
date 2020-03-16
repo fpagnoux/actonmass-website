@@ -394,15 +394,9 @@ collections:
         widget: list
         collapsed: false
         fields:
-          - label: Legislator
+          - <<: *legislator-picker
+            label: Legislator
             name: legislator
-            widget: relation
-            collection: legislators
-            searchFields:
-              - last_name
-            displayFields:
-              - last_name
-            valueField: id
           - label: Vote
             name: vote
             widget: select
