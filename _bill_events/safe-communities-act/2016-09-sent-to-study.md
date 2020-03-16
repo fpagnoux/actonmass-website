@@ -1,6 +1,8 @@
 ---
+id: 2016-09-sent-to-study
 date: 2016-09-15
 description: Sent to study by the Public Safety Committee
+bill: safe-communities-act
 vote_descriptions:
   yes: Voted to send the [Safe Communities Act](/bills/safe-communities-act/) to study
   unk: Won't tell us how they voted on the [Safe Communities Act](/bills/safe-communities-act/) in committee

@@ -1,6 +1,8 @@
 ---
+id: 2018-06-sent-to-study
 date: 2018-06-06
 description: Sent to study by the Public Safety Committee
+bill: safe-communities-act
 progressive_vote: no
 vote_descriptions:
   yes: Voted to send the [Safe Communities Act](/bills/safe-communities-act/) to study

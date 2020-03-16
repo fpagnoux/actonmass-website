@@ -5,6 +5,7 @@ description: |
   1) Senate filed as amendment to their budget
   2) House did not pass
   3) Conference committee stripped from final budget
+bill: safe-communities-act
 progressive_vote: yes
 vote_descriptions:
   yes: Voted for including the [Safe Communities Act](/bills/safe-communities-act/) in the Senate version of the budget

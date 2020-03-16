@@ -1,6 +1,8 @@
 ---
-date: 2014-06-01 # Not sure about 01, added as Jekyll needs a valid date
+id: 2014-06-sent-to-study
+date: 2014-06-01
 description: Sent to study
+bill: safe-communities-act
 vote_descriptions:
   yes: Voted to send the [Safe Communities Act](/bills/safe-communities-act/) to study
   unk: Won't tell us how they voted on the [Safe Communities Act](/bills/safe-communities-act/) in committee
