@@ -319,7 +319,7 @@ collections:
         name: co_sponsors
         multiple: true
         required: false
-      - label: History
+      - label: Bill events
         name: history
         required: false
         collapsed: false
@@ -332,10 +332,11 @@ collections:
             collection: bill_events
             valueField: id
             searchFields:
-              - description
+              - id
             displayFields:
-              - description
+              - id
           - <<: *date-picker
+            default: null
             required: false
             label: Date (fill only if no detailed bill event)
             name: date

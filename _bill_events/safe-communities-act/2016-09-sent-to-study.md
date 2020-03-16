@@ -1,5 +1,5 @@
 ---
-id: 2016-09-sent-to-study
+id: safe-communities-act-2016-09-sent-to-study
 date: 2016-09-15
 description: Sent to study by the Public Safety Committee
 bill: safe-communities-act
