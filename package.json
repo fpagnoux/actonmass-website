@@ -1,7 +1,7 @@
 {
   "name": "actonmass",
   "scripts": {
-    "build": "webpack --mode=production && jekyll build",
+    "build": "webpack --mode=production && jekyll build --safe",
     "serve": "webpack --mode=development && jekyll serve",
     "watch-js": "webpack --watch --mode=development",
     "netlify-cms": "netlify-cms-proxy-server",
