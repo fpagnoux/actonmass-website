@@ -20,7 +20,7 @@ jobs:
 
       - run:
           name: Install Node dependencies
-          command: npm install
+          command: yarn
 
       - run:
           name: Install html5validator
@@ -41,7 +41,7 @@ jobs:
 
       - run:
           name: Compile website
-          command: npm build
+          command: yarn build
 
       - run:
           name: Check homepage was compiled
