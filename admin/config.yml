@@ -43,12 +43,15 @@ collections:
       - label: Subtitle
         name: subtitle
         widget: string
+        required: false
       - label: Logo
         name: logo
         widget: string
+        required: false
       - label: Image
         name: img
         widget: string
+        required: false
       - label: Order
         name: order
         widget: number
@@ -157,14 +160,17 @@ collections:
       - label: Van ID
         name: van_id
         widget: string
+        required: false
       - label: Latitude
         name: lat
         widget: number
         valueType: float
+        required: false
       - label: Longitude
         name: lng
         widget: number
         valueType: float
+        required: false
   - name: committees
     label: Committees
     folder: _committees/
@@ -190,6 +196,7 @@ collections:
       - &legislator-picker
         label: House Chair
         name: house_chair
+        required: false
         widget: relation
         collection: legislators
         searchFields:
@@ -200,15 +207,19 @@ collections:
       - <<: *legislator-picker
         label: House Vice-chair
         name: house_vice_chair
+        required: false
       - <<: *legislator-picker
         label: Senate Chair
         name: senate_chair
+        required: false
       - <<: *legislator-picker
         label: Senate Vice-chair
         name: senate_vice_chair
+        required: false
       - <<: *legislator-picker
         label: House Members
         name: house_members
+        required: false
         multiple: true
       - <<: *legislator-picker
         label: Senate Members
@@ -232,24 +243,31 @@ collections:
         widget: string
       - label: Full title
         name: full_title
+        required: false
         widget: string
       - label: Article
         name: article
+        required: false
         widget: string
       - label: House bill number
         name: house_no
+        required: false
         widget: string
       - label: House bill link
         name: house_link
+        required: false
         widget: string
       - label: Senate bill number
         name: senate_no
+        required: false
         widget: string
       - label: Senate bill link
         name: house_link
+        required: false
         widget: string
       - label: Committee
         name: committee
+        required: false
         widget: relation
         collection: committees
         searchFields:
@@ -259,6 +277,7 @@ collections:
         valueField: id
       - label: Issue
         name: issue
+        required: false
         widget: relation
         collection: issues
         searchFields:
@@ -268,6 +287,7 @@ collections:
         valueField: id
       - label: Summary bullet-points
         name: summary
+        required: false
         widget: list
         collapsed: false
         field:
@@ -276,6 +296,7 @@ collections:
           widget: string
       - label: Organisations
         name: orgs
+        required: false
         widget: list
         collapsed: false
         field:
@@ -286,16 +307,20 @@ collections:
         label: House lead sponsors
         name: house_lead_sponsors
         multiple: true
+        required: false
       - <<: *legislator-picker
         label: Senate lead sponsors
         name: senate_lead_sponsors
         multiple: true
+        required: false
       - <<: *legislator-picker
         label: Co-sponsors
         name: co_sponsors
         multiple: true
+        required: false
       - label: History
         name: history
+        required: false
         widget: list
         fields:
           - label: Detailed bill event
@@ -350,6 +375,9 @@ collections:
           - label: No vote description
             name: "no"
             widget: string
+            default: >-
+              Example: Voted against sending the [Safe Communities
+              Act](/bills/safe-communities-act/) to study
           - label: Unknown vote description
             name: unk
             widget: string
