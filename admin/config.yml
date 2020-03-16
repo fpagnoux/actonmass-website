@@ -322,10 +322,12 @@ collections:
       - label: History
         name: history
         required: false
+        collapsed: false
         widget: list
         fields:
           - label: Detailed bill event
             name: bill_event
+            required: false
             widget: relation
             collection: bill_events
             valueField: id
@@ -334,9 +336,11 @@ collections:
             displayFields:
               - description
           - <<: *date-picker
+            required: false
             label: Date (fill only if no detailed bill event)
             name: date
           - label: Description (fill only if no detailed bill event)
+            required: false
             name: description
   - name: bill_events
     path: "{{bill}}/{{description}}"
