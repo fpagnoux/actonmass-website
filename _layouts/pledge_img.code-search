@@ -1,0 +1,40 @@
+# Query: pledge_img
+# Flags: WordMatch
+# Including: *.html, *.css, *.scss
+
+15 results - 11 files
+
+actonmass-website • _layouts/home.html:
+  114:           {% include hero-image.html img="/img/pledge_img.png" alt="Rep Gouveia signed the pledge!" %}
+
+actonmass-website • _layouts/pledge.html:
+  13:     {% include hero-image.html img="/img/pledge_img.png" alt="Rep Gouveia signed the pledge!" %}
+
+actonmass-website • css/styles.css:
+  2377: .billpg_hero_a .pledge_img {
+
+AOM_practice.github.io • billpg_result.html:
+  67:           <img class="pledge_img" src="images/sca_hero_img.png" alt="sca image">
+
+AOM_practice.github.io • billpg.html:
+  67:           <img class="pledge_img" src="images/sca_hero_img.png" alt="sca image">
+
+AOM_practice.github.io • index.html:
+  247:             <img class="pledge_img1" src="images/pledge_img.png" alt="women protesting">
+
+AOM_practice.github.io • issues.html:
+  68:         <img class="pledge_img" src="images/sca_hero_img.png" alt="sca image">
+
+AOM_practice.github.io • pledge_result.html:
+  65:         <img class="pledge_img" src="images/pledge_img.png" alt="rep signed">
+
+AOM_practice.github.io • pledge.html:
+  12:         <img class="pledge_img" src="images/pledge_img.png" alt="rep signed">
+
+AOM_practice.github.io • css/styles.css:
+  2269: .issues_hero_a .pledge_img {
+  2279:   .issues_hero_a .pledge_img {
+  3335: .billpg_hero_a .pledge_img {
+
+AOM_practice.github.io • old/homepage.html:
+  211:             <img class="pledge_img1" src="images/pledge_img.png" alt="women protesting">
