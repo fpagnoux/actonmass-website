@@ -40,43 +40,44 @@ layout: new-base
     <h6 class="pledge_leg_title fRaleway fUppercase fExbold">
       Did your legislator sign the “voters deserve to know” pledge?
     </h6>
-    <h4 class="pledge_leg_title1 fRaleway fUppercase fRegular">
+    <h4 class="pledge_leg_subtitle fRaleway fUppercase fRegular">
       state representatives:
     </h4>
-    {% for rep_id in page.signatories.house %} {% assign rep = site.data.cache.legislators_by_id[rep_id] %}
-    <div class="leg_circ">
-      <img class="leg_circ_img" src="{{rep.square_picture}}" alt="{{rep.first_name}} {{rep.last_name}}" />
-      <img class="leg_circ_check" src="/img/green_check.png" alt="green check" />
-      <p class="fRoboto fLight">{{rep.first_name}} {{rep.last_name}}</p>
-      <h5 class="fRoboto fLight">{{rep.hometown}}</h5>
+    <div class="legislator-grid">
+      {% for rep_id in page.signatories.house %} {% assign rep = site.data.cache.legislators_by_id[rep_id] %}
+        <div class="leg_circ">
+          <img class="leg_circ_img" src="{{rep.square_picture}}" alt="{{rep.first_name}} {{rep.last_name}}" />
+          <img class="leg_circ_check" src="/img/green_check.png" alt="green check" />
+          <p class="fRoboto fLight">{{rep.first_name}} {{rep.last_name}}</p>
+          <h5 class="fRoboto fLight">{{rep.hometown}}</h5>
+        </div>
+      {% endfor %}
     </div>
-    {% endfor %}
-    <h4 class="pledge_leg_title2 fRaleway fUppercase fRegular">
+    <h4 class="pledge_leg_subtitle fRaleway fUppercase fRegular">
       state senators:
     </h4>
-    {% for rep_id in page.signatories.senate %} {% assign rep = site.data.cache.legislators_by_id[rep_id] %}
-    <div class="leg_circ">
-      <img class="leg_circ_img" src="{{rep.square_picture}}" alt="{{rep.first_name}} {{rep.last_name}}" />
-      <img class="leg_circ_check" src="/img/green_check.png" alt="green check" />
-      <p class="fRoboto fLight">{{rep.first_name}} {{rep.last_name}}</p>
-      <h5 class="fRoboto fLight">{{rep.hometown}}</h5>
+    <div class="legislator-grid">
+      {% for rep_id in page.signatories.senate %} {% assign rep = site.data.cache.legislators_by_id[rep_id] %}
+        <div class="leg_circ">
+          <img class="leg_circ_img" src="{{rep.square_picture}}" alt="{{rep.first_name}} {{rep.last_name}}" />
+          <img class="leg_circ_check" src="/img/green_check.png" alt="green check" />
+          <p class="fRoboto fLight">{{rep.first_name}} {{rep.last_name}}</p>
+          <h5 class="fRoboto fLight">{{rep.hometown}}</h5>
+        </div>
+      {% endfor %}
     </div>
-    {% endfor %}
-    <button class="btn fUppercase btn_trans_pledge2">
-      ask your rep to sign
-    </button>
+    <div class="centered-block">
+      <button class="btn fUppercase btn_trans_pledge2">
+        ask your rep to sign
+      </button>
+    </div>
   </section>
   <section class="pledge_endorse">
     <h3 class="pledge_endorse_title fRaleway fUppercase fBold">
       endorsing organizations:
     </h3>
-    <img class="endorse_img" src="images/endorsements/BTU.png" alt="BTU" />
-    <img class="endorse_img" src="images/endorsements/DSA.png" alt="DSA" />
-    <img class="endorse_img" src="images/endorsements/HI.png" alt="HI" />
-    <img class="endorse_img" src="images/endorsements/MEJA.png" alt="MEJA" />
-    <img class="endorse_img" src="images/endorsements/ORMA.png" alt="ORMA" />
-    <img class="endorse_img" src="images/endorsements/PDM.png" alt="PDM" />
-    <img class="endorse_img" src="images/endorsements/PHENOM.png" alt="PHENOM" />
-    <img class="endorse_img" src="images/endorsements/UUMass.png" alt="UUMASS" />
+    {% for org in page.endorsing_orgs %}
+      <img class="endorse_img" src="{{org.img}}" alt="{{org.title}}" />
+    {% endfor %}
   </section>
 </div>

@@ -220,15 +220,11 @@
 
 .pledge_search_background {
   background-color: var(--primary);
-  grid-area: 7 / 1 / 9 / 2;
+  grid-area: 7 / 1 / 8 / 2;
   z-index: -1;
-}
 
-@media (min-width: 700px) {
-  .pledge_search_background {
-    background-color: var(--primary);
+  @media (min-width: 700px) {
     grid-area: 5 / 1 / 5 / 3;
-    z-index: -1;
   }
 }
 
@@ -253,25 +249,28 @@
 /*-- PLEDGE PG / WHO HAS SIGNED? UNIT/ Legislator Circle Section ---*/
 
 .pledge_reps {
+  display: flex;
+  flex-direction: column;
   grid-area: pledge_reps;
-  display: grid;
-  grid-gap: 1rem;
-  grid-template-rows: repeat(9, auto);
-  grid-template-columns: repeat(3, auto);
   padding: 5rem 0rem 5rem 0rem;
   max-width: 30rem;
   justify-self: center;
   box-sizing: unset;
-}
 
-@media (min-width: 700px) {
-  .pledge_reps {
-    grid-gap: 1rem;
-    grid-template-rows: repeat(8, auto);
-    grid-template-columns: repeat(5, 1fr);
-    padding: 10rem 20rem 10rem 20rem;
+  @media (min-width: 700px) {
+    padding: 10rem 20rem 0 20rem;
     max-width: none;
     justify-self: normal;
+  }
+}
+
+.legislator-grid {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(3, auto);
+
+  @media (min-width: 700px) {
+    grid-template-columns: repeat(5, 1fr);
   }
 }
 
@@ -327,45 +326,13 @@
 }
 
 .pledge_leg_title {
-  grid-area: 1 / 1 / 1 / 4;
-  padding-bottom: 2rem;
+  margin-bottom: 1rem;
+  margin-top: 0;
 }
 
-@media (min-width: 700px) {
-  .pledge_leg_title {
-    grid-area: 1 / 1 / 1 / 6;
-    margin: 0;
-  }
-}
-
-.pledge_leg_title1 {
-  grid-area: 2 / 1 / 2 / 4;
-}
-
-@media (min-width: 700px) {
-  .pledge_leg_title1 {
-    grid-area: 2 / 1 / 2 / 6;
-    margin: 3rem 0rem 3rem 0rem;
-  }
-}
-
-.pledge_leg_title2 {
-  grid-area: 6 / 1 / 6 / 4;
-}
-
-@media (min-width: 700px) {
-  .pledge_leg_title2 {
-    grid-area: 6 / 1 / 6 / 6;
-    margin: 5rem 0rem 5rem 0rem;
-  }
-}
-
-.Rebecca_Rausch {
-  grid-area: 7 / 1;
-}
-
-.James_Eldridge {
-  grid-area: 7 / 2;
+.pledge_leg_subtitle {
+  margin-bottom: 1.5rem;
+  margin-top: 2rem;
 }
 
 .btn_trans_pledge2 {
